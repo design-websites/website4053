@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Tirupati.aspx.cs" Inherits="Default" %>

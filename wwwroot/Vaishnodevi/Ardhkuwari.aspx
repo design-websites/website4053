@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Ardhkuwari.aspx.cs" Inherits="Default" %>

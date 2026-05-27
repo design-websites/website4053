@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="vaishnodevi_aarti.aspx.cs" Inherits="Default" %>

@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Haridwar_temples.aspx.cs" Inherits="Default" %>

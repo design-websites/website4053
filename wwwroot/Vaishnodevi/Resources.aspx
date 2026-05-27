@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Resources.aspx.cs" Inherits="Default" %>

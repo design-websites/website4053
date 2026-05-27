@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Bhairon_temple.aspx.cs" Inherits="Default" %>
