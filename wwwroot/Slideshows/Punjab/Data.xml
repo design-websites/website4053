@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Punjab"
+		description="Magnificent collection of pictures of The Punjab"
+		image="Photos/contigent-of-punjab-parade.jpg">
+    <slide
+            title="Punjab"
+            description="The beautiful Punjab"
+            image="Photos/Punjab-1.jpg"
+            thumbnail="Photos/Punjab-1.jpg" />
+    <slide
+			title="Punjab"
+			description="The magnificent Punjab"
+			image="Photos/contigent-of-punjab-parade.jpg"
+			thumbnail="Photos/contigent-of-punjab-parade.jpg" />
+    <slide
+			title="Punjab"
+			description="The magnificent Punjab"
+			image="Photos/haveli-the-traditional-punjabi-veg-restaurant-in-jalandhar-punjab-india.jpg"
+			thumbnail="Photos/haveli-the-traditional-punjabi-veg-restaurant-in-jalandhar-punjab-india.jpg" />
+    <slide
+			title="Punjab"
+			description="The magnificent Punjab"
+			image="Photos/mustard-fields-in-Indian-Punjab.jpg"
+			thumbnail="Photos/mustard-fields-in-Indian-Punjab.jpg" />
+    <slide
+			title="Punjab"
+			description="The beautiful Punjab"
+			image="Photos/punjab-farmer1.jpg"
+			thumbnail="Photos/punjab-farmer1.jpg" />
+    <slide
+			title="Punjab"
+			description="The Beauty of Punjab"
+			image="Photos/punjab-wheat-fields.jpg"
+			thumbnail="Photos/punjab-wheat-fields.jpg" />
+    <slide
+			title="Punjab"
+			description="The magnificent Punjab"
+			image="Photos/punjab.jpg"
+			thumbnail="Photos/punjab.jpg" />
+    <slide
+			title="Punjab"
+			description="The splendid Punjab"
+			image="Photos/punjab1.jpg"
+			thumbnail="Photos/punjab1.jpg" />
+    
+    <slide
+            title="Punjab"
+            description="The beautiful Punjab"
+            image="Photos/PunjabUniversity.jpg"
+            thumbnail="Photos/PunjabUniversity.jpg" />
+    <slide
+			title="Punjab"
+			description="The beautiful Punjab"
+			image="Photos/Rooh-Punjab.jpg"
+			thumbnail="Photos/Rooh-Punjab.jpg" />
+    
+  </album> 
+</data>
+

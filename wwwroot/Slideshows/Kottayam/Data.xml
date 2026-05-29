@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Kottayam"
+		description="Magnificent collection of pictures of The Kottayam"
+		image="Photos/AlleppeyKottayam1.jpg"
+    thumbnail="Photos/340483740_7cf3ea1320.jpg" >
+
+
+    <slide
+        title="Kottayam"
+        description="The beauty of Kottayam"
+        image="photos/AlleppeyKottayam1.jpg"
+        thumbnail="photos/AlleppeyKottayam1.jpg" />
+    <slide
+            title="Kottayam"
+            description="The beauty of Kottayam"
+            image="Photos/cochikottayam2.jpg"
+            thumbnail="Photos/cochikottayam2.jpg" />
+    <slide
+        title="Kottayam"
+        description="The beauty of Kottayam"
+        image="Photos/Devikulam3.jpg"
+        thumbnail="photos/Devikulam3.jpg" />
+    <slide
+			title="Kottayam"
+			description="The beauty of Kottayam"
+			image="Photos/image4.jpg"
+			thumbnail="Photos/image4.jpg" />
+    <slide
+			title="Kottayam"
+			description="The beauty of Kottayam"
+			image="Photos/Kottayam-1490_1.jpg"
+			thumbnail="Photos/Kottayam-1490_1.jpg" />
+    <slide
+			title="Kottayam"
+			description="The beauty of Kottayam"
+			image="Photos/kottayam-travel-kerala.jpg"
+			thumbnail="Photos/kottayam-travel-kerala.jpg" />
+    <slide
+			title="Kottayam"
+			description="The beauty of Kottayam"
+			image="photos/Kottayam (1).jpg"
+			thumbnail="Photos/Kottayam (1).jpg" />
+    <slide
+			title="Kottayam"
+			description="The beauty of Kottayam"
+			image="Photos/kottayam_4.jpg"
+			thumbnail="Photos/kottayam_4.jpg" />
+    <slide
+       title="Kottayam"
+       description="The beauty of Kottayam"
+       image="Photos/kottayam20kerala.jpg"
+       thumbnail="Photos/kottayam20kerala.jpg" />
+    <slide
+        title="Kottayam"
+        description="The beauty of Kottayam"
+        image="Photos/kottayam20kerala.jpg"
+        thumbnail="Photos/kottayam20kerala.jpg" />
+    <slide
+         title="Kottayam"
+         description="The beauty of Kottayam"
+         image="Photos/Kottayam5.jpg"
+         thumbnail="Photos/Kottayam5.jpg" />
+    <slide
+         title="Kottayam"
+         description="The beauty of Kottayam"
+         image="Photos/Kottayamseematti_jn.jpg"
+         thumbnail="Photos/Kottayamseematti_jn.jpg"/>
+
+    <slide
+        title="Kottayam"
+        description="The beauty of Kottayam"
+        image="Photos/KottayamStGeorgePuthuppally.jpg"
+        thumbnail="Photos/KottayamStGeorgePuthuppally.jpg" />
+    <slide
+            title="Kottayam"
+            description="The beauty of Kottayam"
+            image="Photos/kumarakam.jpg"
+            thumbnail="Photos/kumarakam.jpg" />
+    <slide
+            title="Kottayam"
+            description="The beauty of Kottayam"
+            image="Photos/kumarakomlakeresortia2.png"
+            thumbnail="Photos/kumarakomlakeresortia2.png" />
+    <slide
+            title="Kottayam"
+            description="The beauty of Kottayam"
+            image="Photos/villalarge.jpg "
+            thumbnail="Photos/villalarge.jpg" />
+
+
+
+
+
+  </album>
+  </data>
+

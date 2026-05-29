@@ -1,0 +1,46 @@
+﻿ <asp:FormView ID="FormView1" runat="server" DataSourceID="SqlDataSource2"  EnableViewState="False">
+
+
+<ItemTemplate>
+
+<div class="entry clearfix">
+<h2 class="title">
+      <asp:Label ID="lbl1" runat="server" Text='<%#Eval("name") %>'  Font-Bold="true"/>
+       
+</h2>
+<div class="entry-content clearfix">
+<asp:Image ID="lmage1" runat="server"  height="300" width="450" ImageUrl='<%# "https://storage.googleapis.com/kreatewebsites/photos/" + Eval("imageurl", "{0}") %>' /> <br />
+<p>Rating<asp:Label ID="lbl3" runat="server" Text='<%#Eval("Starrating") %>'/>  </p>
+<p><asp:Label ID="lbl4" runat="server" Text='<%#Eval("description") %>'/>  </p>
+
+<br />
+ <asp:HyperLink ID="HyperLink1" runat=server   NavigateUrl='<%#Eval("link") %>' target="_blank" ><span>More details</span></asp:HyperLink> 
+</div>
+<div class="post-meta clearfix">
+<p class="meta-info">
+  <b><asp:Label ID="lb31" runat="server" Text='<%#Eval("category1") %>'/> </b>
+  <b><asp:Label ID="lb32" runat="server" Text='<%#Eval("category2") %>'/> </b>
+   <b><asp:Label ID="lb33" runat="server" Text='<%#Eval("category3") %>'/> </b>
+ 
+
+
+<asp:HyperLink ID="HyperLink2" runat=server NavigateUrl='<%# DataBinder.Eval(Container.DataItem, "city", "best-places-to-visit.aspx?city={0}") %>' class="readmore"><span>Places in City</span></asp:HyperLink> 
+
+  </p>     
+	</div>
+</div>
+</ItemTemplate>
+
+<FooterTemplate>
+
+
+
+</FooterTemplate>
+</asp:FormView>
+
+             
+ 
+ 
+ 
+
+             

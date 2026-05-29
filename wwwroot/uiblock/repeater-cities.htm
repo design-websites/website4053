@@ -1,0 +1,51 @@
+﻿ <asp:Repeater ID="RepDetails" runat="server"  DataSourceID="SqlDataSource2"   >
+
+<HeaderTemplate>
+
+
+</HeaderTemplate>
+
+<ItemTemplate>
+
+<div class="entry clearfix">
+<h2 class="title">
+      <asp:Label ID="lbl1" runat="server" Text='<%#Eval("city") %>'  Font-Bold="true"/>
+         <asp:Label ID="lbl2" runat="server" Text='<%#Eval("region") %>'  Font-Bold="true"/>
+</h2>
+<div class="entry-content clearfix">
+<asp:Image ID="lmage1" runat="server" Height="100px" Width="150px" class="thumb alignleft" ImageUrl='<%# "https://storage.googleapis.com/kreatewebsites/photos/150/" + Eval("imageurl", "{0}") %>' />
+<p> Places to see : <b><asp:Label ID="lbl3" runat="server" Text='<%#Eval("place1") %>'/>  ,
+<asp:Label ID="lbl4" runat="server" Text='<%#Eval("place2") %>'/> ,
+<asp:Label ID="lbl6" runat="server" Text='<%#Eval("place3") %>'/> </b>...
+</p>
+<p> <asp:Label ID="lbl7" runat="server" Text='<%#Eval("comments") %>'/> </p>
+
+</div>
+<div class="post-meta clearfix">
+<p class="meta-info">
+ Best time to visit <b><asp:Label ID="lb31" runat="server" Text='<%#Eval("besttimetovisit") %>'/> </b>
+
+ 
+ 
+ </p>
+
+<asp:HyperLink ID="HyperLink2" runat=server NavigateUrl='<%# DataBinder.Eval(Container.DataItem, "city", "best-places-to-visit.aspx?city={0}") %>' class="readmore"><span>Read More</span></asp:HyperLink> 
+
+      
+	</div>
+</div>
+</ItemTemplate>
+
+<FooterTemplate>
+
+
+
+</FooterTemplate>
+
+</asp:Repeater>
+             
+ 
+ 
+ 
+
+             

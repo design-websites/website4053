@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Ahmedabad"
+		description="Magnificent collection of pictures of The Ahmedabad"
+		image="Photos/Ahmedabad_Jama_Masjid_2.jpg"
+    thumbnail="Photos/Ahmedabad_Jama_Masjid_2.jpg" >
+
+    <slide
+			title="Ahmedabad"
+			description="Jama Masjid"
+			image="photos/Ahmedabad_Jama_Masjid_2.jpg"
+			thumbnail="Photos/Ahmedabad_Jama_Masjid_2.jpg" />
+    <slide
+            title="Ahmedabad"
+            description="Ahmed Shah Tomb"
+            image="Photos/2.jpg"
+            thumbnail="Photos/2.jpg" />
+    <slide
+			title="Ahmedabad"
+			description="Hathee Singh Jain Temple"
+			image="Photos/hathee-singh-jain-temple-ahmedabad.jpg"
+			thumbnail="Photos/hathee-singh-jain-temple-ahmedabad.jpg" />
+    <slide
+       title="Ahmedabad"
+       description="Sidi Saiyad Mosque"
+       image="Photos/The_famous_jaali_from_the_Sidi_Saiyyed_mosque_in_Ahmedabad.jpg"
+       thumbnail="Photos/The_famous_jaali_from_the_Sidi_Saiyyed_mosque_in_Ahmedabad.jpg" />
+    <slide
+       title="Ahmedabad"
+       description="Akshardham"
+       image="Photos/akshardham_ahmedabad.jpg"
+       thumbnail="Photos/akshardham_ahmedabad.jpg" />
+  </album>
+  </data>
+

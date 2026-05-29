@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Manipur"
+		description="Magnificent collection of pictures of The Manipur"
+		image="Photos/Imphal-manipur.jpg">
+    <slide
+			title="Manipur"
+			description="The magnificent Manipur"
+			image="Photos/Imphal-manipur.jpg"
+			thumbnail="Photos/Imphal-manipur.jpg" />
+    <slide
+            title="Manipur"
+            description="The beautiful Manipur"
+            image="Photos/Manipur-Dance.jpg"
+            thumbnail="Photos/Manipur-Dance.jpg" />
+    <slide
+			title="Manipur"
+			description="The beautiful Manipur"
+			image="Photos/Manipur-Deer-forest.jpg"
+			thumbnail="Photos/Manipur-Deer-forest.jpg" />
+    <slide
+			title="Manipur"
+			description="The Beauty of Manipur"
+			image="Photos/manipur-flowers.jpg"
+			thumbnail="Photos/manipur-flowers.jpg" />
+    <slide
+			title="Manipur"
+			description="The magnificent Manipur"
+			image="Photos/Manipur-Game.jpg"
+			thumbnail="Photos/Manipur-Game.jpg" />
+    <slide
+			title="Manipur"
+			description="The splendid Manipur"
+			image="Photos/Manipur-Nature-1.jpg"
+			thumbnail="Photos/Manipur-Nature-1.jpg" />
+    <slide
+			title="Manipur"
+			description="The magnificent Manipur"
+			image="Photos/manipur-Nature.jpg"
+			thumbnail="Photos/manipur-Nature.jpg" />
+    <slide
+            title="Manipur"
+            description="The beautiful Manipur"
+            image="Photos/manipur-waterflow.jpg"
+            thumbnail="Photos/manipur-waterflow.jpg" />
+    <slide
+			title="Manipur"
+			description="The beautiful Manipur"
+			image="Photos/manipur_lake.jpg"
+			thumbnail="Photos/manipur_lake.jpg" />
+    <slide
+			title="Manipur"
+			description="The Beauty of Manipur"
+			image="Photos/manipur2.jpg"
+			thumbnail="Photos/manipur2.jpg" />
+    <slide
+			title="Manipur"
+			description="The magnificent Manipur"
+			image="Photos/Phumdis-in-keibul-lamjao-national-park-Manipur.jpg"
+			thumbnail="Photos/Phumdis-in-keibul-lamjao-national-park-Manipur.jpg" />
+    <slide
+			title="Manipur"
+			description="The beautiful Manipur"
+			image="Photos/pung-manipur.jpg"
+			thumbnail="Photos/pung-manipur.jpg" />
+    <slide
+			title="Manipur"
+			description="The Beauty of Manipur"
+			image="Photos/Sangai-Deer-Manipur.jpg"
+			thumbnail="Photos/Sangai-Deer-Manipur.jpg" />
+    <slide
+			title="Manipur"
+			description="The magnificent Manipur"
+			image="Photos/sekmai-Manipur.jpg"
+			thumbnail="Photos/sekmai-Manipur.jpg" />
+    
+  </album> 
+</data>
+

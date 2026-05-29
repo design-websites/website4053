@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Rajasthan"
+		description="Magnificent collection of pictures of The Rajasthan"
+		image="Photos/best_of_rajasthan.jpg">
+    <slide
+			title="Rajasthan"
+			description="The beautiful Rajasthan"
+			image="Photos/rajasthan2.jpg"
+			thumbnail="Photos/rajasthan2.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The magnificent Rajasthan"
+			image="Photos/best_of_rajasthan.jpg"
+			thumbnail="Photos/best_of_rajasthan.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The magnificent Rajasthan"
+			image="Photos/fort-rajasthan-1.jpg"
+			thumbnail="Photos/fort-rajasthan-1.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The magnificent Rajasthan"
+			image="Photos/Gadi_Sagar_Temple_Jaisalmer_Rajasthan_India.jpg"
+			thumbnail="Photos/Gadi_Sagar_Temple_Jaisalmer_Rajasthan_India.jpg" />
+    <slide
+            title="Rajasthan"
+            description="The beautiful Rajasthan"
+            image="Photos/Magical-Rajasthan-Tour.jpg"
+            thumbnail="Photos/Magical-Rajasthan-Tour.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The beautiful Rajasthan"
+			image="Photos/rajasthan-001.jpg"
+			thumbnail="Photos/rajasthan-001.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The Beauty of Rajasthan"
+			image="Photos/Rajasthan-1.jpg"
+			thumbnail="Photos/Rajasthan-1.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The magnificent Rajasthan"
+			image="Photos/rajasthan-general.jpg"
+			thumbnail="Photos/rajasthan-general.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The splendid Rajasthan"
+			image="Photos/RAJASTHAN.jpg"
+			thumbnail="Photos/RAJASTHAN.jpg" />
+    
+    <slide
+            title="Rajasthan"
+            description="The beautiful Rajasthan"
+            image="Photos/rajasthan_tour_group.jpg"
+            thumbnail="Photos/rajasthan_tour_group.jpg" />
+    <slide
+			title="Rajasthan"
+			description="The beautiful Rajasthan"
+			image="Photos/rajasthan1.jpg"
+			thumbnail="Photos/rajasthan1.jpg" />
+    
+    
+  </album> 
+</data>
+

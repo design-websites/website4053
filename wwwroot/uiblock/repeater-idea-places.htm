@@ -1,0 +1,52 @@
+﻿ <asp:Repeater ID="RepDetails" runat="server"  DataSourceID="SqlDataSource2"   >
+
+<HeaderTemplate>
+
+
+</HeaderTemplate>
+
+<ItemTemplate>
+
+<div class="entry clearfix">
+<h2 class="title">
+      <asp:Label ID="lbl1" runat="server" Text='<%#Eval("trip") %>'  Font-Bold="true"/>
+      
+</h2>
+
+<div class="entry-content clearfix">
+<asp:Image ID="lmage1" runat="server" Height="100px" Width="150px" class="thumb alignleft" ImageUrl='<%# "https://www.indiacitytrip.com/photos/150/" + Eval("imageurl", "{0}") %>' />
+<p><asp:Label ID="lbl3" runat="server" Text='<%#Eval("destinations") %>'/> </p>
+<p>Best Time: <asp:Label ID="lbl4" runat="server" Text='<%#Eval("Best_time_visit") %>'/> </p>
+
+
+
+</div>
+<div class="post-meta clearfix">
+<p class="meta-info">
+  Duration <b><asp:Label ID="lb31" runat="server" Text='<%#Eval("duration") %>'/> </b>
+  Trip Type<b><asp:Label ID="lb32" runat="server" Text='<%#Eval("type") %>'/> </b>
+  Region<b><asp:Label ID="lb32" runat="server" Text='<%#Eval("region") %>'/> </b>
+  
+ 
+ </p>
+
+<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl='<%# DataBinder.Eval(Container.DataItem, "biz_name", "https://www.indiacitytrip.com/place-details.aspx?name={0}") %>' class="readmore"><span>Read More</span></asp:HyperLink> 
+
+      
+	</div>
+</div>
+</ItemTemplate>
+
+<FooterTemplate>
+
+
+
+</FooterTemplate>
+
+</asp:Repeater>
+             
+ 
+ 
+ 
+
+             

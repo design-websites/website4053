@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album name="Guwa"
+		title="Guwahati"
+		description="Magnificent collection of pictures of The Guwahati"
+		image="Photos/Assam-Nehru_Park_Guwahati.jpg">
+    <slide
+			title="Guwahati"
+			description="Nehru Park"
+			image="Photos/Assam-Nehru_Park_Guwahati.jpg"
+			thumbnail="Photos/Assam-Nehru_Park_Guwahati.jpg" />
+    <slide
+        title="Guwahati"
+        description="Chandubi Lake"
+        image="Photos/Chandubi-Lake.jpg"
+        thumbnail="Photos/Chandubi-Lake.jpg" />
+    <slide
+            title="Guwahati"
+            description="Kamakhya Temple"
+            image="Photos/kamakhya-temple.jpg"
+            thumbnail="Photos/kamakhya-temple.jpg" />
+    <slide
+			title="Guwahati"
+			description="Kaziranga National Park"
+			image="Photos/Kaziranga-National-Park.jpg"
+			thumbnail="Photos/Kaziranga-National-Park.jpg" />
+    <slide
+			title="Guwahati"
+			description="Manas Sanctuary"
+			image="Photos/Manas-Sanctuary.jpg"
+			thumbnail="Photos/Manas-Sanctuary.jpg" />
+    <slide
+			title="Guwahati"
+			description="Vashistha Ashram"
+			image="Photos/Vashistha Ashram Guwahati.jpg"
+			thumbnail="Photos/Vashistha Ashram Guwahati.jpg" />
+    <slide
+			title="Guwahati"
+			description="Kalakshetra Entrance Gate"
+			image="Photos/guwahati_kalakshetra_entrance_gate.jpg"
+			thumbnail="Photos/guwahati_kalakshetra_entrance_gate.jpg" />
+  </album>
+  
+</data>
+

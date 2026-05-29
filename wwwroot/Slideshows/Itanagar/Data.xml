@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Itanagar"
+		description="Magnificent collection of pictures of Itanagar"
+		image="Photos/Buddhist_temple_Itanagar.jpg">
+    <slide
+			title="Itanagar"
+			description="Buddhist Temple"
+			image="Photos/Buddhist_temple_Itanagar.jpg"
+			thumbnail="Photos/Buddhist_temple_Itanagar.jpg" />
+    <slide
+			title="Itanagar"
+			description="Ganga Lake"
+			image="Photos/Gekar-Sinyi-or-Ganga-Lake.jpg"
+			thumbnail="Photos/Gekar-Sinyi-or-Ganga-Lake.jpg" />
+    <slide
+			title="Itanagar"
+			description="Losar Festival"
+			image="Photos/Itanagar-Losar-Festival.jpg"
+			thumbnail="Photos/Itanagar-Losar-Festival.jpg" />
+    <slide
+            title="Itanagar"
+            description="Itanagr Falls"
+            image="Photos/Itanagar-Falls.jpg"
+            thumbnail="Photos/Itanagar-Falls.jpg" />
+    <slide
+            title="Itanagar"
+            description="Itanagar Fort"
+            image="Photos/itanagar-fort.jpg"
+            thumbnail="Photos/itanagar-fort.jpg" />
+    <slide
+            title="Itanagar"
+            description="Landscape Of Itanagar"
+            image="Photos/LandScape-of-Itanagar.jpg"
+            thumbnail="Photos/LandScape-of-Itanagar.jpg" />
+    
+  </album>
+
+</data>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Karnataka"
+		description="Magnificent collection of pictures of The Karnataka"
+		image="Photos/Durga_Temple_Karnataka_India.jpg">
+    <slide
+			title="Karnataka"
+			description="The magnificent Karnataka"
+			image="Photos/Durga_Temple_Karnataka_India.jpg"
+			thumbnail="Photos/Durga_Temple_Karnataka_India.jpg" />
+    <slide
+            title="Karnataka"
+            description="The beautiful Karnataka"
+            image="Photos/Ganpati-Karnataka.jpg"
+            thumbnail="Photos/Ganpati-Karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The beautiful Karnataka"
+			image="Photos/Hampi-karnataka.jpg"
+			thumbnail="Photos/Hampi-karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The Beauty of Karnataka"
+			image="Photos/jog-falls-karnataka.jpg"
+			thumbnail="Photos/jog-falls-karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The magnificent Karnataka"
+			image="Photos/kabini-karnataka.jpg"
+			thumbnail="Photos/kabini-karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The splendid Karnataka"
+			image="Photos/karnataka-1.jpg"
+			thumbnail="Photos/karnataka-1.jpg" />
+    <slide
+			title="Karnataka"
+			description="The magnificent Karnataka"
+			image="Photos/Karnataka-birds.jpg"
+			thumbnail="Photos/Karnataka-birds.jpg" />
+    <slide
+            title="Karnataka"
+            description="The beautiful Karnataka"
+            image="Photos/karnataka-buddha-murti.jpg"
+            thumbnail="Photos/karnataka-buddha-murti.jpg" />
+    <slide
+			title="Karnataka"
+			description="The beautiful Karnataka"
+			image="Photos/karnataka-Nandi.jpg"
+			thumbnail="Photos/karnataka-Nandi.jpg" />
+    <slide
+			title="Karnataka"
+			description="The Beauty of Karnataka"
+			image="Photos/Karnataka-waterfall-and-train.jpg"
+			thumbnail="Photos/Karnataka-waterfall-and-train.jpg" />
+    <slide
+			title="Karnataka"
+			description="The magnificent Karnataka"
+			image="Photos/Karnataka-waterfall.jpg"
+			thumbnail="Photos/Karnataka-waterfall.jpg" />
+    <slide
+			title="Karnataka"
+			description="The splendid Karnataka"
+			image="Photos/Karnataka.jpg"
+			thumbnail="Photos/Karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The beautiful Karnataka"
+			image="Photos/Karnataka_banks_tungabhadra.jpg"
+			thumbnail="Photos/Karnataka_banks_tungabhadra.jpg" />
+    <slide
+			title="Karnataka"
+			description="The Beauty of Karnataka"
+			image="Photos/shiva-murti-karnataka.jpg"
+			thumbnail="Photos/shiva-murti-karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The magnificent Karnataka"
+			image="Photos/temples_badami_karnataka.jpg"
+			thumbnail="Photos/temples_badami_karnataka.jpg" />
+    <slide
+			title="Karnataka"
+			description="The splendid Karnataka"
+			image="Photos/Uttar_Karnataka_food.jpg"
+			thumbnail="Photos/Uttar_Karnataka_food.jpg" />
+  </album> 
+</data>
+

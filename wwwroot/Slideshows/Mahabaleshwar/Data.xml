@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Mahabaleshwar"
+		description="Magnificent collection of pictures of Mahabaleshwar"
+		image="Photos/cool_mahabaleshwar_ii.jpg">
+    <slide
+        title="Mahabaleshwar"
+        description="The beauty of Mahabaleshwar"
+        image="Photos/cool_mahabaleshwar_ii.jpg"
+        thumbnail="Photos/cool_mahabaleshwar_ii.jpg" />
+    <slide
+			title="Mahabaleshwar"
+			description="The beauty of Mahabaleshwar"
+			image="Photos/Elephant-Point.jpg"
+			thumbnail="Photos/Elephant-Point.jpg" />
+    <slide
+			title="Mahabaleshwar"
+			description="The beauty of Mahabaleshwar"
+			image="Photos/Mahabaleshwar-1.jpg"
+			thumbnail="Photos/Mahabaleshwar-1.jpg" />
+    <slide
+			title="Mahabaleshwar"
+			description="The beauty of Mahabaleshwar"
+			image="Photos/mahabaleshwar-2544_m.jpg"
+			thumbnail="Photos/mahabaleshwar-2544_m.jpg" />
+    <slide
+        title="Mahabaleshwar"
+        description="The magnificent Mahabaleshwar"
+        image="Photos/Mahabaleshwar-3775_8.jpg"
+        thumbnail="Photos/Mahabaleshwar-3775_8.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/mahabaleshwar-arthurs-seat.jpg"
+            thumbnail="Photos/mahabaleshwar-arthurs-seat.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/Mahabaleshwar-Hill-Station.jpg"
+            thumbnail="Photos/Mahabaleshwar-Hill-Station.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/Mahabaleshwar-Place-For-Summer-Holidays.jpg"
+            thumbnail="Photos/Mahabaleshwar-Place-For-Summer-Holidays.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/mahabaleshwar.jpg"
+            thumbnail="Photos/mahabaleshwar.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/mahabaleshwar202.jpg"
+            thumbnail="Photos/mahabaleshwar202.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/mahabaleshwar3.jpg"
+            thumbnail="Photos/mahabaleshwar3.jpg" />
+    <slide
+            title="Mahabaleshwar"
+            description="The beauty of Mahabaleshwar"
+            image="Photos/Mahabaleshwar31.jpg"
+            thumbnail="Photos/Mahabaleshwar31.jpg" />
+  </album>
+
+</data>

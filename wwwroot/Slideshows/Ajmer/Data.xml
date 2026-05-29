@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Ajmer"
+		description="Magnificent collection of pictures of The Ajmer"
+		image="Photos/ajmer-dargah.jpg">
+    <slide
+			title="Ajmer"
+			description="Shah Jahan Mosque"
+			image="Photos/ajmer-dargah.jpg"
+			thumbnail="Photos/ajmer-dargah.jpg" />
+    <slide
+            title="Ajmer"
+            description="Ajmer Masjid"
+            image="Photos/ajmer-large-msg.jpg"
+            thumbnail="Photos/ajmer-large-msg.jpg" />
+    <slide
+			title="Ajmer"
+			description="Dargah Sharif"
+			image="Photos/ajmer-sharif.jpg"
+			thumbnail="Photos/ajmer-sharif.jpg" />
+    <slide
+			title="Ajmer"
+			description="Dargah Sharif"
+			image="Photos/ajmer_dargah-sharif.jpg"
+			thumbnail="Photos/ajmer_dargah-sharif.jpg" />
+    <slide
+        title="Ajmer"
+        description="Ana Sagar Lake"
+        image="Photos/ana-sagar-ajmer.jpg"
+        thumbnail="Photos/ana-sagar-ajmer.jpg" />
+    <slide
+       title="Ajmer"
+       description="Ana Sagar Lake"
+       image="Photos/Ana-Sagar-Lake-in-Ajmer.jpg"
+       thumbnail="Photos/Ana-Sagar-Lake-in-Ajmer.jpg" />
+  </album> 
+</data>
+

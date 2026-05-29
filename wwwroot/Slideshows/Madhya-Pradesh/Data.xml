@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Madhya-Pradesh"
+		description="Magnificent collection of pictures of The Madhya-Pradesh"
+		image="Photos/bheda-ghat-jabalpur-madhya-pradesh.jpg">
+    <slide
+			title="Madhya-Pradesh"
+			description="The magnificent Madhya-Pradesh"
+			image="Photos/bheda-ghat-jabalpur-madhya-pradesh.jpg"
+			thumbnail="Photos/bheda-ghat-jabalpur-madhya-pradesh.jpg" />
+    <slide
+            title="Madhya-Pradesh"
+            description="The beautiful Madhya-Pradesh"
+            image="Photos/Bhimbetka_Caves-Madhya_Pradesh.jpg"
+            thumbnail="Photos/Bhimbetka_Caves-Madhya_Pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The beautiful Madhya-Pradesh"
+			image="Photos/brown_fish_owl_madhya_pradesh_india.jpg"
+			thumbnail="Photos/brown_fish_owl_madhya_pradesh_india.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The Beauty of Madhya-Pradesh"
+			image="Photos/Gwalior-State_of_Madhya_Pradesh.jpg"
+			thumbnail="Photos/Gwalior-State_of_Madhya_Pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The magnificent Madhya-Pradesh"
+			image="Photos/Heritage-of-Madhya-Pradesh.jpg"
+			thumbnail="Photos/Heritage-of-Madhya-Pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The splendid Madhya-Pradesh"
+			image="Photos/khajuraho-madhya-pradesh.jpg"
+			thumbnail="Photos/khajuraho-madhya-pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The magnificent Madhya-Pradesh"
+			image="Photos/madhya-pradesh-hills.jpg"
+			thumbnail="Photos/madhya-pradesh-hills.jpg" />
+    <slide
+            title="Madhya-Pradesh"
+            description="The beautiful Madhya-Pradesh"
+            image="Photos/madhya-pradesh-temple.jpg"
+            thumbnail="Photos/madhya-pradesh-temple.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The beautiful Madhya-Pradesh"
+			image="Photos/madhya-pradesh-tiger-1.jpg"
+			thumbnail="Photos/madhya-pradesh-tiger-1.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The Beauty of Madhya-Pradesh"
+			image="Photos/madhya-pradesh.jpg"
+			thumbnail="Photos/madhya-pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The magnificent Madhya-Pradesh"
+			image="Photos/man_mandir_palace-gwalior.jpg"
+			thumbnail="Photos/man_mandir_palace-gwalior.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The splendid Madhya-Pradesh"
+			image="Photos/sanchi_stupa_from_eastern_gate_madhya_pradesh.jpg"
+			thumbnail="Photos/sanchi_stupa_from_eastern_gate_madhya_pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The beautiful Madhya-Pradesh"
+			image="Photos/temple-khajuraho-madhya-pradesh.jpg"
+			thumbnail="Photos/temple-khajuraho-madhya-pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The Beauty of Madhya-Pradesh"
+			image="Photos/vidhansabha-madhya-pradesh.jpg"
+			thumbnail="Photos/vidhansabha-madhya-pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The magnificent Madhya-Pradesh"
+			image="Photos/water-fall-of -Madhya-Pradesh.jpg"
+			thumbnail="Photos/water-fall-of -Madhya-Pradesh.jpg" />
+    <slide
+			title="Madhya-Pradesh"
+			description="The splendid Madhya-Pradesh"
+			image="Photos/madhya-pradesh-tiger.jpg"
+			thumbnail="Photos/madhya-pradesh-tiger.jpg" />
+  </album> 
+</data>
+

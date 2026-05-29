@@ -1,0 +1,42 @@
+﻿ <asp:DetailsView ID="DetailsView2" runat="server" AutoGenerateRows="False" BorderStyle="None" BorderColor="#FFFFFF"
+                            DataSourceID="SqlDataSource2" Font-Bold="True" Font-Italic="True" Font-Size="20px"
+                            Width="100%"  CellSpacing="2">
+<RowStyle  ForeColor="Black" />
+ <Fields>
+     <asp:BoundField DataField="Name"  HeaderText=" " SortExpression="Name" />
+      <asp:BoundField DataField="city"  HeaderText=" " SortExpression="Name" />
+ </Fields>
+      </asp:DetailsView>
+<br/>
+
+
+
+<asp:DetailsView ID="DetailsView1" runat="server" AutoGenerateRows="False" CellPadding="3"
+                            DataSourceID="SqlDataSource2" Height="50px"
+                            Width="90%" BackColor="#DEBA84" BorderColor="#DEBA84" BorderStyle="Solid" BorderWidth="1px" CellSpacing="2">
+                            <FooterStyle BackColor="#5D7B9D" ForeColor="White"  Font-Bold ="True"  />
+                            <EditRowStyle BackColor="#738A9C" Font-Bold="True" ForeColor="White" />
+                            <RowStyle BackColor="#F7F6F3" ForeColor="#333333" HorizontalAlign="Left"/>
+                            <PagerStyle ForeColor="#8C4510" HorizontalAlign="Center" />
+                            <FieldHeaderStyle BackColor="#E9ECF1" Font-Bold="True" HorizontalAlign="Left" Width="30%" />
+                            <HeaderStyle BackColor="#A55129" Font-Bold="True" ForeColor="White" />
+                            <Fields>
+                                
+                              
+                                <asp:BoundField DataField="state" HeaderText="state" SortExpression="state" />
+                                <asp:BoundField DataField="category1" HeaderText="category1" SortExpression="category" />
+                                <asp:BoundField DataField="description" HeaderText="description" SortExpression="description" />
+                                <asp:Imagefield   
+                                
+                            
+                    DataImageUrlField="imageurl"
+                    
+                    HeaderText="Image"
+                  />
+
+                               
+                                
+                            </Fields>
+                            <CommandRowStyle BackColor="#E2DED6" Font-Bold="True" />
+        </asp:DetailsView>
+        

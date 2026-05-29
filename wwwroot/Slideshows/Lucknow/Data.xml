@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Lucknow"
+		description="Magnificent collection of pictures of The Lucknow"
+		image="Photos/340483740_7cf3ea1320.jpg"
+    thumbnail="Photos/340483740_7cf3ea1320.jpg" >
+
+    <slide
+         title="Lucknow"
+         description="The beauty of Lucknow"
+         image="Photos/chota-imbarra-lucknow-india.jpg"
+         thumbnail="photos/chota-imbarra-lucknow-india.jpg" />
+    <slide
+            title="Lucknow"
+            description="The beauty of Lucknow"
+            image="Photos/asfi_mosque_imambara_lucknow.jpg"
+            thumbnail="Photos/asfi_mosque_imambara_lucknow.jpg" />
+    
+    <slide
+       title="Lucknow"
+       description="The beauty of Lucknow"
+       image="Photos/340483740_7cf3ea1320.jpg"
+       thumbnail="Photos/340483740_7cf3ea1320.jpg" />
+    <slide
+      title="Lucknow"
+      description="The beauty of Lucknow"
+      image="Photos/iim-lucknow.jpg"
+      thumbnail="Photos/iim-lucknow.jpg" />
+    <slide
+      title="Lucknow"
+      description="The beauty of Lucknow"
+      image="Photos/iim-lucknow1.jpg"
+      thumbnail="Photos/iim-lucknow1.jpg" />
+    <slide
+      title="Lucknow"
+      description="The beauty of Lucknow"
+      image="Photos/lucknowinside.jpg"
+      thumbnail="Photos/lucknowinside.jpg" />
+    <slide
+      title="Lucknow"
+      description="The beauty of Lucknow"
+      image="photos/India_Lucknow_Hotel.jpg"
+      thumbnail="Photos/India_Lucknow_Hotel.jpg" />
+    <slide
+      title="Lucknow"
+      description="The beauty of Lucknow"
+      image="Photos/Lucknow-Entertainment.jpg"
+      thumbnail="Photos/Lucknow-Entertainment.jpg" />
+    <slide
+       title="Lucknow"
+       description="The beauty of Lucknow"
+       image="Photos/lucknow-residency-ruins.jpg"
+       thumbnail="Photos/lucknow-residency-ruins.jpg" />
+    <slide
+        title="Lucknow"
+        description="The beauty of Lucknow"
+        image="Photos/lucknow.jpg"
+        thumbnail="Photos/lucknow.jpg" />
+    <slide
+         title="Lucknow"
+         description="The beauty of Lucknow"
+         image="Photos/lucknow_01.jpg"
+         thumbnail="Photos/lucknow_01.jpg" />
+    <slide
+            title="Lucknow"
+            description="The beauty of Lucknow"
+            image="Photos/taj-residency-lucknow.jpg"
+            thumbnail="Photos/taj-residency-lucknow.jpg" />
+    <slide
+            title="Lucknow"
+            description="The beauty of Lucknow"
+            image="Photos/the-residency-lucknow-india.jpg"
+            thumbnail="Photos/the-residency-lucknow-india.jpg" />
+
+  </album>
+
+</data>

@@ -1,0 +1,53 @@
+﻿ <asp:Repeater ID="RepDetails" runat="server"  DataSourceID="SqlDataSource2"   >
+
+<HeaderTemplate>
+
+
+</HeaderTemplate>
+
+<ItemTemplate>
+
+<div class="entry clearfix">
+<h2 class="title">
+      <asp:Label ID="lbl1" runat="server" Text='<%#Eval("name") %>'  Font-Bold="true"/>
+      
+</h2>
+<h4>
+ <asp:Label ID="lbl2" runat="server" Text='<%#Eval("city") %>'  Font-Bold="true"/>
+ </h4>
+<div class="entry-content clearfix">
+<asp:Image ID="lmage1" runat="server" Height="100px" Width="150px" class="thumb alignleft" ImageUrl='<%# "https://storage.googleapis.com/kreatewebsites/photos/150/" + Eval("imageurl", "{0}") %>' />
+<p><asp:Label ID="lbl3" runat="server" Text='<%#Eval("description") %>'/>  
+
+</p>
+
+
+</div>
+<div class="post-meta clearfix">
+<p class="meta-info">
+  <b><asp:Label ID="lb31" runat="server" Text='<%#Eval("category1") %>'/> </b>
+  <b><asp:Label ID="lb32" runat="server" Text='<%#Eval("category2") %>'/> </b>
+   <b><asp:Label ID="lb33" runat="server" Text='<%#Eval("category3") %>'/> </b>
+ 
+ </p>
+
+<asp:HyperLink ID="HyperLink2" runat=server NavigateUrl='<%# DataBinder.Eval(Container.DataItem, "name", "place-details.aspx?name={0}") %>' class="readmore"><span>Read More</span></asp:HyperLink> 
+
+      
+	</div>
+</div>
+</ItemTemplate>
+
+<FooterTemplate>
+
+
+
+</FooterTemplate>
+
+</asp:Repeater>
+             
+ 
+ 
+ 
+
+             

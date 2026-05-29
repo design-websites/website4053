@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Jaipur"
+		description="Magnificent collection of pictures of The Jaipur"
+		image="Photos/amer-palace-jaipur.jpg">
+    <slide
+			title="Jaipur"
+			description="Amer Palace"
+			image="Photos/amer-palace-jaipur.jpg"
+			thumbnail="Photos/amer-palace-jaipur.jpg" />
+    <slide
+            title="Jaipur"
+            description="City Palace"
+            image="Photos/city-palace-jaipur.jpg"
+            thumbnail="Photos/city-palace-jaipur.jpg" />
+    <slide
+			title="Jaipur"
+			description="Hawa Mahal"
+			image="Photos/hawamahal.jpg"
+			thumbnail="Photos/hawamahal.jpg" />
+    <slide
+			title="Jaipur"
+			description="Hotel Lemeridien"
+			image="Photos/hotel-lemeridien-jaipur.jpg"
+			thumbnail="Photos/hotel-lemeridien-jaipur.jpg" />
+    <slide
+			title="Jaipur"
+			description="City Palace"
+			image="Photos/Jaipur-City-Palace-inside.jpg"
+			thumbnail="Photos/Jaipur-City-Palace-inside.jpg" />
+    <slide
+			title="Jaipur"
+			description="Peacock Gateway City Palace"
+			image="Photos/jaipur-peacock-gatewayx-city-palace.jpg"
+			thumbnail="Photos/jaipur-peacock-gatewayx-city-palace.jpg" />
+    <slide
+			title="Jaipur"
+			description="Hawa Mahal"
+			image="Photos/Jaipur.jpg"
+			thumbnail="Photos/Jaipur.jpg" />
+    <slide
+            title="Jaipur"
+            description="Jaipur City"
+            image="Photos/jaipur_city.jpg"
+            thumbnail="Photos/jaipur_city.jpg" />
+    <slide
+			title="Jaipur"
+			description="Jantar Mantar"
+			image="Photos/Jantar_Mantar_Jaipur.jpg"
+			thumbnail="Photos/Jantar_Mantar_Jaipur.jpg" />
+    <slide
+			title="Jaipur"
+			description="Lake Palace"
+			image="Photos/Lake_Palace_Jaipur_Jaipur_India.jpg"
+			thumbnail="Photos/Lake_Palace_Jaipur_Jaipur_India.jpg" />
+    <slide
+			title="Jaipur"
+			description="Rambagh Palace"
+			image="Photos/rambagh-palace-jaipur.jpg"
+			thumbnail="Photos/rambagh-palace-jaipur.jpg" />
+    <slide
+			title="Jaipur"
+			description="Trident Hilton"
+			image="Photos/trident-hilton-jaipur.jpg"
+			thumbnail="Photos/trident-hilton-jaipur.jpg" />
+  </album> 
+</data>
+
