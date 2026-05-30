@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="PrivacyPolicy.aspx.cs" Inherits="Default" %>

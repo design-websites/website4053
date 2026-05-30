@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Maharashtra"
+		description="Magnificent collection of pictures of The Maharashtra"
+		image="Photos/ashta_vinayak-Maharashtra.jpg">
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/ashta_vinayak-Maharashtra.jpg"
+			thumbnail="Photos/ashta_vinayak-Maharashtra.jpg" />
+    <slide
+     title="Maharashtra"
+     description="The Beauty of Maharashtra"
+     image="Photos/Nawari-Maharashtra.jpg"
+     thumbnail="Photos/Nawari-Maharashtra.jpg" />
+    <slide
+            title="Maharashtra"
+            description="The beautiful Maharashtra"
+            image="Photos/Champak-Tree-Maharashtra-India.jpg"
+            thumbnail="Photos/Champak-Tree-Maharashtra-India.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The Beauty of Maharashtra"
+			image="Photos/dgoffice-maharashtra.PNG"
+			thumbnail="Photos/dgoffice-maharashtra.PNG" />
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/Ellora-Caverns-Maharashtra.jpg"
+			thumbnail="Photos/Ellora-Caverns-Maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The splendid Maharashtra"
+			image="Photos/gateway-mumbai-maharashtra.jpg"
+			thumbnail="Photos/gateway-mumbai-maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/Irshal-Prabal-Fort-Trek-in-Maharashtra.jpg"
+			thumbnail="Photos/Irshal-Prabal-Fort-Trek-in-Maharashtra.jpg" />
+    <slide
+            title="Maharashtra"
+            description="The beautiful Maharashtra"
+            image="Photos/maharashtra-forts-arnala.jpg"
+            thumbnail="Photos/maharashtra-forts-arnala.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The beautiful Maharashtra"
+			image="Photos/maharashtra-forts-pratapgarh.jpg"
+			thumbnail="Photos/maharashtra-forts-pratapgarh.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The Beauty of Maharashtra"
+			image="Photos/Maharashtra-Sea-Nature.jpg"
+			thumbnail="Photos/Maharashtra-Sea-Nature.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/Maharashtra-Shivaji.jpg"
+			thumbnail="Photos/Maharashtra-Shivaji.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The splendid Maharashtra"
+			image="Photos/maharashtra-valley.jpg"
+			thumbnail="Photos/maharashtra-valley.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The beautiful Maharashtra"
+			image="Photos/Maharashtra-water.jpg"
+			thumbnail="Photos/Maharashtra-water.jpg" />
+    <slide
+       title="Maharashtra"
+       description="The beautiful Maharashtra"
+       image="Photos/Costumes_Maharashtra.jpg"
+       thumbnail="Photos/Costumes_Maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/Purandar-Fort-Trek-in-Maharashtra.jpg"
+			thumbnail="Photos/Purandar-Fort-Trek-in-Maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The splendid Maharashtra"
+			image="Photos/trimbakeshwar-temple-maharashtra.jpg"
+			thumbnail="Photos/trimbakeshwar-temple-maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The magnificent Maharashtra"
+			image="Photos/vinchukaata_lohgad_maharashtra.jpg"
+			thumbnail="Photos/vinchukaata_lohgad_maharashtra.jpg" />
+    <slide
+			title="Maharashtra"
+			description="The splendid Maharashtra"
+			image="Photos/waltham-tony-lonar-meteorite-crater-world-s-only-impact-crater-in-basalt-deccan-plateau-maharashtra-india.jpg"
+			thumbnail="Photos/waltham-tony-lonar-meteorite-crater-world-s-only-impact-crater-in-basalt-deccan-plateau-maharashtra-india.jpg" />
+  </album> 
+</data>
+

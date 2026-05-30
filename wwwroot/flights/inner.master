@@ -1,0 +1,367 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Inner.master.cs" Inherits="Inner" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <script src="https://storage.googleapis.com/kreatewebsites/siteindia/Scripts/jquery.js" type="text/javascript"></script>
+    <script src="https://storage.googleapis.com/kreatewebsites/siteindia/Scripts/superfish.js" type="text/javascript"></script>
+    <link href="https://storage.googleapis.com/kreatewebsites/siteindia/Style/subpage.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<div id="header-top" class="clearfix">
+		<div class="container clearfix">
+			<!-- Start Logo -->			
+			<a href="Default.aspx" title="USA City trip"><img src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/logo.png" alt="USA City trip" title="USA City trip" id="logo"/></a>
+			<p id="slogan">Explore USA Travel</p>
+			<!-- End Logo -->
+			<!-- Start Page-menu -->
+			<div id="page-menu">
+            <div id="p-menu-left"> </div>
+				<div id="p-menu-content">
+					<ul class="nav clearfix sf-js-enabled"> 
+			<li><a href="Default.aspx" title="USA City Trip">Home</a></li>
+		<li class="page_item page-item-127 sf-ul"><a class="sf-with-ul" href="#" title="About USA City trip">About</a>
+</li>
+<li class="page_item page-item-134"><a href="#" title="Location">Location</a></li>
+<li class="page_item page-item-132"><a href="#" title="Flight to USA">Flight to USA</a></li>
+<li class="page_item page-item-130 sf-ul"><a class="sf-with-ul" href="#" title="Contact">Contact</a>
+</li>
+<li class="page_item page-item-133"><a href="#" title="Sitemap">Sitemap</a></li>
+</ul>						</div>	
+				<div id="p-menu-right"> </div>
+			</div>	
+            <!-- end #page-menu -->	
+			<!-- End Page-menu -->	
+            <div id="cat-nav" class="clearfix">	
+				<div id="cat-nav-left"> </div>
+				<div id="cat-nav-content">
+						<ul class="nav superfish clearfix sf-js-enabled">	
+<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="#" title="USA Tourism">Place to See</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="#" title="Botswana Tourism">USA Beach Tour</a></li>
+<li class="cat-item cat-item-11"><a href="#" title="Cameroon Tourism">USA Beach Holidays</a></li>
+<li class="cat-item cat-item-14"><a href="#" title="Cape Verde Tourism">USA Vacation Package</a></li>
+<li class="cat-item cat-item-14"><a href="#" title="Egypt Tourism">Exotic USA Vacation</a></li>
+<li class="cat-item cat-item-6"><a href="#" title="Ethiopia Tourism">USA Special Tour</a></li>
+</ul>
+</li>
+	<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="#" title="Yellow Page">Things to do</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="#" title="Astrologers in USA">Astrologers in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Beauty Parlors in USA">Beauty Parlors in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Cinema Theaters in USA">Cinema Theaters in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Dentists in USA">Dentists in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Jewelry Shops in USA">Jewelry Shops in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Hospitals in USA">Hospitals in USA</a></li>
+</ul> 
+</li>
+<li class="cat-item cat-item-5 sf-ul"><a href="#" title="Attractions in USA">Road Trip</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="#" title="Churches in USA">Churches in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Beaches in USA">Beaches in USA</a></li>
+<li class="cat-item cat-item-7"><a href="#" title="Forts in USA">Forts in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Lakes nad Springs in USA">Lakes nad Springs in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Waterfalls in USA">Waterfalls in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="River Cruising in USA">River Cruising in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Heritage Houses in USA">Heritage Houses in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Museum in USA">Museum in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Temples in USA">Temples in USA</a>
+<li class="cat-item cat-item-7"><a href="#" title="Wildlife in USA">Wildlife in USA</a>
+</li>
+</ul>
+</li>
+
+	<li class="cat-item cat-item-8 sf-ul"><a class="sf-with-ul" href="#" title="Festivals in USA">Campaing</a>
+<ul style="display: none; visibility: hidden;" class="children">
+	<li class="cat-item cat-item-19"><a href="#" target="_blank" title="Bonderam Festival">Bonderam Festival</a></li>
+	<li class="cat-item cat-item-13"><a href="#" target="_blank" title="Christmas">Christmas</a></li>
+	<li class="cat-item cat-item-16"><a href="#" target="_blank" title="Feast Of Three Kings">Feast Of Three Kings</a></li>
+    <li class="cat-item cat-item-16"><a href="#" target="_blank" title="USA Carnival">USA Carnival</a></li>
+    <li class="cat-item cat-item-16"><a href="#" target="_blank" title="Good Friday Easter">Good Friday Easter</a></li>
+    </ul>
+</li>
+
+<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="#" title="USA Travel Tips">Hotels in USA</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="#" title="Interesting Facts About USA">Interesting Facts</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Best Train Journeys in USA">Best Train Journeys</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Ten Best Places to Visit in USA">Ten Best Places</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Honeymoon Places in USA">Honeymoon Places in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="Theme Parks in USA">Theme Parks in USA</a></li>
+
+<li class="cat-item cat-item-9"><a href="#" title="Travel Agents in USA">Travel Agents in USA</a></li>
+<li class="cat-item cat-item-9"><a href="#" title="wildlife in USA">Wildlife in USA</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-10 sf-ul"><a href="#" title="USA Travel Tips">Booking</a></li>
+</ul>	
+					<!-- Start Searchbox -->
+			<div id="search-form">
+						<form action="https://www.indiacitytrip.com/SearchResult.aspx" id="cse-search-box">
+                    <div>
+                        <input  name="q" id="searchinput" type="text"/>
+                        <input type="hidden" name="cx" value="004327320599134220665:upyedlgd9ey" />
+                        <input type="hidden" name="cof" value="FORID:9" />
+                        <input type="hidden" name="ie" value="UTF-8" />
+                        <input  src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/search_btn.png" type="image" id="searchsubmit" name="sa"  />  
+                    </div>
+                </form>
+                    <script type="text/javascript" src="https://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+			</div>
+				<!-- End Searchbox -->	
+				</div> <!-- end #cat-nav-content -->
+				<div id="cat-nav-right"> </div>
+                
+			</div>	<!-- end #cat-nav -->	
+		</div> 	<!-- end .container -->
+
+	</div> 	<!-- end #header-top -->
+    <div>
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+   <div id="content">
+					<div id="content-top-shadow"></div>
+				<div class="container">	
+        <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+   </div>
+    <div id="content-bottom">
+	<div class="container"></div>
+    </div>
+    <div id="footer">
+	<div class="container clearfix">
+		
+		<div id="recent-comments-5" class="footer-widget widget_recent_comments"><h4 class="widgettitle">
+            Festival&nbsp; in USA</h4><ul id="recentcomments">
+            <li class="recentcomments"><a href="#" title="Bonderam Festival">Bonderam Festival</a></li>
+            <li class="recentcomments"><a href="#" title="Christmas">Christmas</a></li>
+            <li class="recentcomments"><a href="#" title="Feast Of Three Kings">Feast Of Three Kings</a></li>
+            <li class="recentcomments"><a href="#" title="USA Carnival">USA Carnival</a></li>
+            <li class="recentcomments"><a href="#" title="Good Friday Easter">Good Friday Easter</a></li>
+            </ul></div> <!-- end .footer-widget -->
+            <div id="linkcat-2" class="footer-widget widget_links">
+            <h4 class="widgettitle">
+                USA Tourist Attraction</h4>
+	<ul class="xoxo blogroll">
+<li><a href="#" title="Adventure Sports in USA">Adventure Sports in USA</a></li>
+<li><a href="#" title="Beaches in USA">Beaches in USA</a></li>
+<li><a href="#" title="River Cruising">River Cruising</a></li>
+<li><a href="#" title="Forts in USA">Forts in USA</a></li>
+<li><a href="#" title="Waterfalls in USA">Waterfalls in USA</a></li>
+<li><a href="#" title="Heritage Houses in USA">Heritage Houses in USA</a></li>
+<li><a href="#" title="Wildlife in USA">Wildlife in USA</a></li>
+	</ul>
+</div> <!-- end .footer-widget -->
+<div id="recent-posts-5" class="footer-widget widget_meta">		<h4 class="widgettitle">
+            Resources</h4>		<ul>
+				<li><a href="https://www.ukcitytrip.com/" title="UK City Trip">UK City Trip</a></li>
+				<li><a href="https://www.swedencitytrip.com" title="Sweden City Trip">Sweden City Trip</a></li>
+				<li><a href="https://www.germanycitytrip.com/" title="Germany City Trip">Germany City Trip</a></li>
+				<li><a href="https://www.italycitytrip.com/" title="Italy City Trip">Italy City Trip</a></li>
+				<li><a href="https://www.francecitytrip.com/" title="France City Trip">France City Trip</a></li>
+                <li><a href="https://www.switzerlandcitytrip.com/" title="Switzerland City Trip">Switzerland City Trip</a></li>
+                <li><a href="https://www.irelandcitytrip.com/" title="Ireland City Trip">Ireland City Trip</a></li>
+				</ul>
+		</div>
+		
+<div id="meta-4" class="footer-widget widget_recent_entries last"><h4 class="widgettitle">Follow Us on</h4>			
+<ul>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/faceBook.png" style="width:100px; height:40px"   alt="Facebook" title="Follow us on Facebook" />   </a></li>
+<li><a href="https://twitter.com/uscitytrip" title="Follow us on Twitter" target="_blank"  ><img src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/twitter.png" style="width:100px; height:40px" alt="Twitter" title="Follow us on Twitter" /></a></li>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/digg.png"  alt="digg" style="width:100px; height:40px" title="Follow us on digg" />   </a></li>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/indiacitytrip.com/code/images/linkedin.png"  alt="Linkedin" style="width:100px; height:40px" title="Follow us on Linkedin" />   </a></li>
+
+</ul>
+</div>
+
+<!-- end .footer-widget -->		
+		<div class="clear"></div>
+
+	</div> <!--end .container -->
+</div> <!-- end #footer -->
+
+<div id="footer-bottom">
+	<div class="container clearfix">	
+		<ul class="bottom-nav"> 
+            <li class="current_page_item"><a href="Default.aspx">Home</a></li>
+            <li class="page_item page-item-127"><a href="AboutUs.aspx" title="About">About</a></li>
+            <li class="page_item page-item-130"><a href="#" title="Contact">Contact</a></li>
+            <li class="page_item page-item-134"><a href="#" title="Location">Flight to USA</a></li>
+            <li class="page_item page-item-132"><a href="https://www.deshhotel.com/" title="Hotels Book">Hotels Book</a></li>
+            <li class="page_item page-item-135"><a href="#" title="Career">Career</a></li>
+            <li class="page_item page-item-135"><a href="#" title="Resources">Resources</a></li>
+            <li class="page_item page-item-135"><a href="#" title="Sitemap">Sitemap</a></li>
+            <li class="page_item page-item-135"><a href="#" title="Privacy Policy">Privacy Policy</a></li>
+         </ul>		
+		<p id="copyright">Designed by  <a href="#" title="Deshstar">Deshstar</a> | Powered by  <a href="#" title="USA City Trip">USA City Trip</a></p>
+	</div> <!--end .container --><script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+	
+		jQuery('ul.superfish, #page-menu ul.nav').superfish({ 
+			delay:       200,                            // one second delay on mouseout 
+			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+			speed:       'fast',                          // faster animation speed 
+			autoArrows:  true,                           // disable generation of arrow mark-up 
+			dropShadows: false                            // disable drop shadows 
+		});
+		
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul'); 
+		
+		et_search_bar();
+		et_footer_improvements('#footer .footer-widget');
+		
+		<!---- et_switcher plugin v1.3 ---->
+		(function($)
+		{
+			$.fn.et_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements in defining lengths
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'prevlink',
+				   arrowRight: 'nextlink',
+				   auto: false,
+				   autoSpeed: 5000
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this);
+					slidesContainer.find(options.slides).hide().end().find(options.slides).filter(':first').css('display','block');
+			 
+					if (options.linksNav != '') { 
+						var linkSwitcher = jQuery(options.linksNav);
+										
+						linkSwitcher.click(function(){
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+
+							if (targetElement.hasClass('active')) return false;
+
+							targetElement.siblings().removeClass('active').end().addClass('active');
+
+							var ordernum = targetElement.prevAll(options.lengthElement).length;
+											
+							slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+							return false;
+						});
+					};
+					
+					jQuery('#'+options.arrowRight+', #'+options.arrowLeft).click(function(){
+					  
+						var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+							nextSlide = slideActive.next(),
+							prevSlide = slideActive.prev();
+
+						if (jQuery(this).attr("id") == options.arrowRight) {
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						};
+
+						if (jQuery(this).attr("id") == options.arrowLeft) {
+							if (prevSlide.length) {
+								var ordernum = prevSlide.prevAll().length;                  
+							} else { var ordernum = slidesContainer.find(options.slides).length-1; }
+						};
+
+						slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+
+						if (typeof interval != 'undefined') {
+							clearInterval(interval);
+							auto_rotate();
+						};
+
+						return false;
+					});   
+
+					if (options.auto) {
+						auto_rotate();
+					};
+					
+					function auto_rotate(){
+						interval = setInterval(function(){
+							var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+								nextSlide = slideActive.next();
+						 
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						 
+							if (options.linksNav === '') 
+								jQuery('#'+options.arrowRight).trigger("click");
+							else 		 		
+								linkSwitcher.filter(':eq('+ordernum+')').trigger("click");
+						},options.autoSpeed);
+					};
+				});
+			}
+		})(jQuery);
+		
+		
+		var $featuredArea = jQuery('#featured'),
+			$all_tabs = jQuery('#all_tabs');
+		
+		if ($featuredArea.length) {
+			$featuredArea.et_switcher({
+				useArrows: true ,
+										auto: true,
+										autoSpeed: 5000										
+			});
+		};
+				
+		if ($all_tabs.length) {
+			$all_tabs.et_switcher({
+				linksNav: 'ul#tab_controls li a'
+			});
+		}; 
+
+				
+		<!---- Footer Improvements ---->
+		function et_footer_improvements($selector){
+			var $footer_widget = jQuery($selector);
+		
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+		};
+		
+		<!---- Search Bar Improvements ---->
+		function et_search_bar(){
+			var $searchform = jQuery('#cat-nav div#search-form'),
+				$searchinput = $searchform.find("input#searchinput"),
+				searchvalue = $searchinput.val();
+				
+			$searchinput.focus(function(){
+				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+			}).blur(function(){
+				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+			});
+		};
+		
+	//]]>	
+	</script>
+</div> <!-- end #footer-bottom -->
+
+</body>
+</html>

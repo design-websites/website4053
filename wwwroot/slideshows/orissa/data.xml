@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Orissa"
+		description="Magnificent collection of pictures of The Orissa"
+		image="Photos/konark-Orissa.jpg">
+    <slide
+			title="Orissa"
+			description="The magnificent Orissa"
+			image="Photos/konark-Orissa.jpg"
+			thumbnail="Photos/konark-Orissa.jpg" />
+    <slide
+			title="Orissa"
+			description="The magnificent Orissa"
+			image="Photos/orissa-beaches.jpg"
+			thumbnail="Photos/orissa-beaches.jpg" />
+    <slide
+            title="Orissa"
+            description="The beautiful Orissa"
+            image="Photos/Orissa-Dance.jpg"
+            thumbnail="Photos/Orissa-Dance.jpg" />
+    <slide
+			title="Orissa"
+			description="The beautiful Orissa"
+			image="Photos/Orissa-Mandir.jpg"
+			thumbnail="Photos/Orissa-Mandir.jpg" />
+    <slide
+			title="Orissa"
+			description="The Beauty of Orissa"
+			image="Photos/Wheel_of_Konark_Orissa_India.jpg"
+			thumbnail="Photos/Wheel_of_Konark_Orissa_India.jpg" />
+            
+  </album> 
+</data>
+

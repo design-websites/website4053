@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Kerala"
+		description="Magnificent collection of pictures of The Kerala"
+		image="Photos/cheap-holidays-in-kerala.jpg">
+    
+    <slide
+        title="Kerala"
+        description="The beauty of Kerala"
+        image="Photos/cheap-holidays-in-kerala.jpg"
+        thumbnail="Photos/cheap-holidays-in-kerala.jpg" />
+    <slide
+            title="Kerala"
+            description="The beauty of Kerala"
+            image="Photos/kerala-back-waters.jpg"
+            thumbnail="Photos/kerala-back-waters.jpg" />
+    <slide
+        title="Kerala"
+        description="The beauty of Kerala"
+        image="Photos/Kerala-Beach.jpg"
+        thumbnail="Photos/Kerala-Beach.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala-beaches-kovalam.jpg"
+			thumbnail="Photos/kerala-beaches-kovalam.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/keralabackwater.jpg"
+			thumbnail="Photos/keralabackwater.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala.jpg"
+			thumbnail="Photos/kerala.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/Kerala_1.jpg"
+			thumbnail="Photos/Kerala_1.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/Kerala_houseboat.jpg"
+			thumbnail="Photos/Kerala_houseboat.jpg" />
+   <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala_scene-05.jpg"
+			thumbnail="Photos/kerala_scene-05.jpg" />
+    <slide
+        title="Kerala"
+        description="The beauty of Kerala"
+        image="Photos/kerala1.jpg"
+        thumbnail="Photos/kerala1.jpg" />
+       
+    <slide
+		title="Kerala"
+		description="The beauty of Kerala"
+		image="Photos/kerala12.jpg"
+    thumbnail="Photos/kerala12.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala4.jpg"
+			thumbnail="Photos/kerala4.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala6.jpg"
+			thumbnail="Photos/kerala6.jpg" />
+    <slide
+			title="Kerala"
+			description="The beauty of Kerala"
+			image="Photos/kerala8.jpg"
+			thumbnail="Photos/kerala8.jpg" />
+  </album>
+  </data>
+

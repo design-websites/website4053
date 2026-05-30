@@ -1,0 +1,1138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Goa"
+		description="Magnificent collection of pictures of The Goa"
+		image="Photos/beaches-at-goa.jpg">
+    <slide
+			title="Goa"
+			description="Dona Paula"
+			image="Photos/Dona-Paula.jpg"
+			thumbnail="Photos/Dona-Paula.jpg" />
+    <slide
+			title="Goa"
+			description="Goa Beach"
+			image="Photos/beaches1.jpg"
+			thumbnail="Photos/beaches1.jpg" />
+    <slide
+        title="Goa"
+        description="Aguada Fort"
+        image="Photos/fort-aguada-goa.jpg"
+        thumbnail="Photos/fort-aguada-goa.jpg" />
+    <slide
+            title="Goa"
+            description="Vasco-Da-Gama"
+            image="Photos/Vasco-Da-Gama1.jpg"
+            thumbnail="Photos/Vasco-Da-Gama1.jpg" />
+    <slide
+			title="Goa"
+			description="Vagator Beach"
+			image="Photos/Vagator-Beach.jpg"
+			thumbnail="Photos/Vagator-Beach.jpg" />
+    <slide
+			title="Goa"
+			description="Vasco-Da-Gama"
+			image="Photos/Vasco-Da-Gama.jpg"
+			thumbnail="Photos/Vasco-Da-Gama.jpg" />
+    <slide
+			title="Goa"
+			description="Alorna Fort Gate"
+			image="Photos/Alorna Fort Gate.jpg"
+			thumbnail="Photos/Alorna Fort Gate.jpg" />
+    <slide
+			title="Goa"
+			description="Aguada Fort"
+			image="Photos/fortaguada-goa.jpg"
+			thumbnail="Photos/fortaguada-goa.jpg" />
+    
+  </album>
+  <!--Hillstation--><!--
+  <album
+		title="Hillstation"
+		description="Magnificent collection of pictures of The Hillstation"
+		image="Photos/Hillstation/Hillstation2.jpg">
+    <slide
+			title="Hillstation"
+			description="The magnificent Taj Mahal"
+			image="Photos/Hillstation/Hillstation2.jpg"
+			thumbnail="Photos/Hillstation2.jpg" />
+    <slide
+        title="Darjeeling Hillstation"
+        description="The beauty of Hillstation"
+        image="Photos/Hillstation/Darjeeling-Hill-Station.jpg"
+        thumbnail="Photos/Darjeeling-Hill-Station.jpg" />
+    <slide
+            title="Hillstation"
+            description="The beauty of Hillstation"
+            image="Photos/Hillstation/Hillstation3.jpg"
+            thumbnail="Photos/Hillstation/Hillstation3.jpg" />
+    <slide
+			title="Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/Hillstation4.jpg"
+			thumbnail="Photos/Hillstation/Hillstation4.jpg" />
+    <slide
+			title="Khajjiar Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/Khajjiar-Hill-Station.jpg"
+			thumbnail="Photos/Hillstation/Khajjiar-Hill-Station.jpg" />
+    <slide
+			title="Mahabaleshwar Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/Mahabaleshwar-Hill-Station.jpg"
+			thumbnail="Photos/Hillstation/Mahabaleshwar-Hill-Station.jpg" />
+    <slide
+			title="Mirik-Darjeeling Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/Mirik-Darjeeling.jpg"
+			thumbnail="Photos/Hillstation/Mirik-Darjeeling.jpg" />
+    <slide
+			title="Mussoorie Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/mussoorie-roadview.jpg"
+			thumbnail="Photos/Hillstation/mussoorie-roadview.jpg" />
+    <slide
+       title="Nainital Hillstation"
+       description="The beauty of Hillstation"
+       image="Photos/Hillstation/nainital-uttarakhand-joseph-stalin-sanamandra-13.jpg"
+       thumbnail="Photos/Hillstation/nainital-uttarakhand-joseph-stalin-sanamandra-13.jpg" />
+    <slide
+        title="Ooty Hillstation"
+        description="The beauty of Hillstation"
+        image="Photos/Hillstation/ooty-hill-station.jpg"
+        thumbnail="Photos/Hillstation/ooty-hill-station.jpg" />
+
+    <slide
+		title="Shimla Hillstation"
+		description="The beauty of Hillstation"
+		image="Photos/Hillstation/Shimla Hill Station.jpg"
+    thumbnail="Photos/Hillstation/Shimla Hill Station.jpg" />
+    <slide
+			title="Srinagar Hillstation"
+			description="The beauty of Hillstation"
+			image="Photos/Hillstation/srinagar.jpg"
+			thumbnail="Photos/Hillstation/srinagar.jpg" />
+  </album>-->
+  <!--<album
+		title="Famous Monuments"
+		description="Collection of monuments from all over India"
+		image="Photos/qutub1.jpg">
+
+    <slide
+     title="Qutubminar"
+     description="The Qutubminar-Delhi"
+     image="Photos/qutub2.jpg"
+     thumbnail="Photos/qutub2.jpg" />
+
+    <slide
+     title="Qutubminar"
+     description="The qutubminar"
+     image="Photos/qutub3.jpg"
+     thumbnail="Photos/qutub3.jpg" />
+
+    <slide
+         title="Qutubminar"
+         description="The qutubminar"
+         image="Photos/qutub4.jpg"
+         thumbnail="Photos/qutub4.jpg" />
+
+    <slide
+         title="Qutubminar"
+         description="The qutubminar"
+         image="Photos/qutub5.jpg"
+         thumbnail="Photos/qutub5.jpg" />
+
+  </album>-->
+
+  <!--<album
+      title="Famous Monuments"
+      description="Collection of monuments from all over India"
+      image="Photos/gateway1.jpg">
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway2.jpg"
+     thumbnail="Photos/gateway2.jpg" />
+
+    <slide
+      title="Gateway of India"
+      description="The gateway of India-Mumbai "
+      image="Photos/gateway3.jpg"
+      thumbnail="Photos/gateway3.jpg" />
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway4.jpg"
+     thumbnail="Photos/gateway4.jpg" />
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway5.jpg"
+     thumbnail="Photos/gateway5.jpg" />
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway6.jpg"
+     thumbnail="Photos/gateway6.jpg" />
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway7.jpg"
+     thumbnail="Photos/gateway7.jpg" />
+
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway8.jpg"
+     thumbnail="Photos/gateway8.jpg" />
+
+
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway9.jpg"
+     thumbnail="Photos/gateway9.jpg" />
+
+
+    <slide
+     title="Gateway of India"
+     description="The gateway of India-Mumbai "
+     image="Photos/gateway10.jpg"
+     thumbnail="Photos/gateway10.jpg" />
+
+  </album>-->
+  <!--<album
+		title="Famous Monuments"
+		description="Collection of monuments from all over India"
+		image="Photos/sanchi1.jpg">
+
+    <slide
+     title="The sanchi stupas"
+     description="The famous stupas at sanchi "
+     image="Photos/sanchi2.jpg"
+     thumbnail="Photos/sanchi2.jpg" />
+
+    <slide
+     title="The sanchi stupas"
+     description="The famous stupas at sanchi "
+     image="Photos/sanchi3.jpg"
+     thumbnail="Photos/sanchi3.jpg" />
+
+    <slide
+     title="The sanchi stupas"
+     description="The famous stupas at sanchi "
+     image="Photos/sanchi4.jpg"
+     thumbnail="Photos/sanchi4.jpg" />
+
+    <slide
+     title="The sanchi stupas"
+     description="The famous stupas at sanchi "
+     image="Photos/sanchi5.jpg"
+     thumbnail="Photos/sanchi5.jpg" />
+
+    <slide
+         title="The sanchi stupas"
+         description="The famous stupas at sanchi "
+         image="Photos/sanchi6.jpg"
+         thumbnail="Photos/sanchi6.jpg" />
+
+    <slide
+         title="The sanchi stupas"
+         description="The famous stupas at sanchi "
+         image="Photos/sanchi7.jpg"
+         thumbnail="Photos/sanchi7.jpg" />
+
+    <slide
+         title="The sanchi stupas"
+         description="The famous stupas at sanchi "
+         image="Photos/sanchi8.jpg"
+         thumbnail="Photos/sanchi8.jpg" />
+
+    <slide
+         title="The sanchi stupas"
+         description="The famous stupas at sanchi "
+         image="Photos/sanchi9.jpg"
+         thumbnail="Photos/sanchi9.jpg" />
+
+    <slide
+         title="The sanchi stupas"
+         description="The famous stupas at sanchi "
+         image="Photos/sanchi10.jpg"
+         thumbnail="Photos/sanchi10.jpg" />
+
+  </album>-->
+
+  <!--<album
+      title="Famous Monuments"
+      description="Collection of monuments from all over India"
+      image="Photos/jantar1.jpg">
+
+
+    <slide
+	title="The jantar Mantar"
+     description="The famous jantar mantar"
+     image="Photos/jantar2.jpg"
+     thumbnail="Photos/jantar2.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+          description="The famous jantar mantar"
+          image="Photos/jantar3.jpg"
+          thumbnail="Photos/jantar3.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar4.jpg"
+         thumbnail="Photos/jantar4.jpg" />
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar5.jpg"
+         thumbnail="Photos/jantar5.jpg" />
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar6.jpg"
+         thumbnail="Photos/jantar6.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar7.jpg"
+         thumbnail="Photos/jantar7.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar8.jpg"
+         thumbnail="Photos/jantar8.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar9.jpg"
+         thumbnail="Photos/jantar9.jpg" />
+
+    <slide
+      title="The jantar Mantar"
+         description="The famous jantar mantar"
+         image="Photos/jantar10.jpg"
+         thumbnail="Photos/jantar10.jpg" />
+  </album>
+  <album
+		title="Famous Palaces"
+		description="Collection of Palaces from all over India"
+		image="Photos/jodhabai1.jpg">
+    <slide
+    title="The Jodhabai palace"
+    description="The Jodhabai Palace at rajasthan "
+    image="Photos/jodhabai2.jpg"
+    thumbnail="Photos/jodhabai2.jpg" />
+    <slide
+   title="The Jodhabai palace"
+   description="The Jodhabai Palace Rajasthan "
+   image="Photos/jodhabai3.jpg"
+   thumbnail="Photos/jodhabai3.jpg" />
+    <slide
+   title="The Jodhabai palace"
+   description="The Jodhabai Palace at rajasthan "
+   image="Photos/jodhabai4.jpg"
+   thumbnail="Photos/jodhabai4.jpg" />
+
+    <slide
+       title="The Jodhabai palace"
+       description="The Jodhabai Palace at rajasthan "
+       image="Photos/jodhabai5.jpg"
+       thumbnail="Photos/jodhabai5.jpg" />
+
+    <slide
+       title="The Jodhabai palace"
+       description="The Jodhabai Palace at rajasthan "
+       image="Photos/jodhabai6.jpg"
+       thumbnail="Photos/jodhabai6.jpg" />
+
+    <slide
+       title="The Jodhabai palace"
+       description="The Jodhabai Palace at rajasthan "
+       image="Photos/jodhabai7.jpg"
+       thumbnail="Photos/jodhabai7.jpg" />
+    <slide
+   title="The Hawa Mahal"
+   description="The Hawa Mahal "
+   image="Photos/hawamahal1.jpg"
+   thumbnail="Photos/hawamahal1.jpg" />
+    <slide
+      title="The Hawa Mahal"
+      description="The Hawa Mahal "
+      image="Photos/hawamahal2.jpg"
+      thumbnail="Photos/hawamahal2.jpg" />
+    <slide
+   title="The Hawa Mahal"
+   description="The Hawa Mahal "
+   image="Photos/hawamahal3.jpg"
+   thumbnail="Photos/hawamahal3.jpg" />
+    <slide
+   title="The Birbal Bhavan"
+   description="The Birbal Bhawan "
+   image="Photos/birbalbhawan1.jpg"
+   thumbnail="Photos/birbalbhawan1.jpg" />
+    <slide
+   title="The Birbal Bhavan"
+   description="The Birbal Bhawan "
+   image="Photos/birbalbhawan2.jpg"
+   thumbnail="Photos/birbalbhawan2.jpg" />
+    <slide
+   title="The Birbal Bhavan"
+   description="The Birbal Bhawan "
+   image="Photos/birbalbhawan3.jpg"
+   thumbnail="Photos/birbalbhawan3.jpg" />
+  </album>
+
+  <album
+      title="Agra Fort,Allahabad Fort,Aligarh Fort,Amber Fort"
+      description="Collection of pics from Agra,Allahabad,Aligarh,Amber Fort"
+      image="Photos/agrafort1.jpg">
+
+    <slide
+       title="The Agra Fort"
+       description="The Agra Fort"
+       image="Photos/agrafort1.jpg"
+       thumbnail="Photos/agrafort1.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Agra Fort"
+       image="Photos/agrafort4.jpg"
+       thumbnail="Photos/agrafort4.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Architectural beauty"
+       image="Photos/agra90.jpg"
+       thumbnail="Photos/agra90.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Architectural beauty"
+       image="Photos/agra80.jpg"
+       thumbnail="Photos/agra80.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Jahangir Mahal of Agrafort"
+       image="Photos/jahangiri-mahal.jpg"
+       thumbnail="Photos/jahangiri-mahal.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Khas Mahal of Agrafort"
+       image="Photos/khas_mahal.jpg"
+       thumbnail="Photos/khas_mahal.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Octagonal tower of Agrafort"
+       image="Photos/octo6.jpg"
+       thumbnail="Photos/octo6.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Octagonal tower of Agrafort"
+       image="Photos/octo1.jpg"
+       thumbnail="Photos/octo1.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Diwan i Khas Agrafort"
+       image="Photos/khas.jpg"
+       thumbnail="Photos/khas.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Diwan i am of Agrafort"
+       image="Photos/diwanam.jpg"
+       thumbnail="Photos/diwanam.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Sheesh mahal of Agrafort"
+       image="Photos/sheeshmahal.jpg"
+       thumbnail="Photos/sheeshmahal.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Moti Masjid of Agrafort"
+       image="Photos/moti2.jpg"
+       thumbnail="Photos/moti2.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Mina masjid of Agrafort"
+       image="Photos/mina1.jpg"
+       thumbnail="Photos/mina1.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Machii bhawan of Agrafort"
+       image="Photos/machhi3.jpg"
+       thumbnail="Photos/machhi3.jpg" />
+
+    <slide
+       title="The Agra Fort"
+       description="The Anguri Baag of Agrafort"
+       image="Photos/anguri3.jpg"
+       thumbnail="Photos/anguri3.jpg" />
+
+    <slide
+       title="The Allahabad Fort"
+       description="The Allahabad Fort"
+       image="Photos/all1.jpg"
+       thumbnail="Photos/all1.jpg" />
+
+    <slide
+       title="The Allahabad Fort"
+       description="The Allahabad Fort"
+       image="Photos/all10.jpg"
+       thumbnail="Photos/all10.jpg" />
+
+    <slide
+       title="The Allahabad Fort"
+       description="The Allahabad Fort"
+       image="Photos/all6.jpg"
+       thumbnail="Photos/all6.jpg" />
+
+    <slide
+       title="The Allahabad Fort"
+       description="The Allahabad Fort"
+       image="Photos/all9.jpg"
+       thumbnail="Photos/all9.jpg" />
+
+    <slide
+       title="The Aligarh Fort"
+       description="The Aligarh Fort"
+       image="Photos/ali2.jpg"
+       thumbnail="Photos/ali2.jpg" />
+
+    <slide
+       title="The Aligarh Fort"
+       description="The Aligarh Fort"
+       image="Photos/ali3.jpg"
+       thumbnail="Photos/ali3.jpg" />
+
+    <slide
+       title="The Aligarh Fort"
+       description="The Aligarh Fort"
+       image="Photos/ali6.jpg"
+       thumbnail="Photos/ali6.jpg" />
+
+    <slide
+       title="The Aligarh Fort"
+       description="The Aligarh Fort"
+       image="Photos/ali4.jpg"
+       thumbnail="Photos/ali4.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort"
+       image="Photos/amber_fort4.jpg"
+       thumbnail="Photos/amber_fort4.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort"
+       image="Photos/amber_fort2.jpg"
+       thumbnail="Photos/amber_fort2.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Architectural beauty"
+       image="Photos/amberfort3.jpg"
+       thumbnail="Photos/amberfort3.jpg" />
+
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Old Amber Palace"
+       image="Photos/oldamber4.jpg"
+       thumbnail="Photos/oldamber4.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Diwan-i-am"
+       image="Photos/Diwan-i-am1.jpg"
+       thumbnail="Photos/Diwan-i-am1.jpg" />
+
+
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Diwan-i-khas"
+       image="Photos/Diwankhas2.jpg"
+       thumbnail="Photos/Diwankhas2.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Shila mata temple"
+       image="Photos/shilamata2.jpg"
+       thumbnail="Photos/shilamata2.jpg" />
+
+    <slide
+       title="The Amber Fort"
+       description="The Amber Fort-Ganesh Pole"
+       image="Photos/ganeshpol5.jpg"
+       thumbnail="Photos/ganeshpol5.jpg" />
+
+  </album>
+
+  <album
+      title="Gwalior Fort,Arnala Fort,Bekal and Belgaum fort"
+      description="Collection of pics from Gwalior,Arnala,Bekal and Belgaum fort"
+      image="Photos/gwaliorfort1.jpg">
+
+    <slide
+       title="The Gwalior Fort"
+       description="The Gwalior Fort"
+       image="Photos/gwaliorfort1.jpg"
+       thumbnail="Photos/gwaliorfort1.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="The Gwalior Fort"
+       image="Photos/gwalior.jpg"
+       thumbnail="Photos/gwalior.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="The Gwalior Fort"
+       image="Photos/gwaliorfort31.jpg"
+       thumbnail="Photos/gwaliorfort31.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="The Architectural beauty of gwalior fort"
+       image="Photos/gwalior5.jpg"
+       thumbnail="Photos/gwalior5.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="The Architectural beauty of gwalior fort"
+       image="Photos/gwalior100.jpg"
+       thumbnail="Photos/gwalior100.jpg" />
+
+
+    <slide
+       title="The Gwalior Fort"
+       description="Gujarai Mahal of Gwalior fort"
+       image="Photos/gujarimahal5.jpg"
+       thumbnail="Photos/gujarimahal5.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="Man-Mandir Palace of Gwalior fort"
+       image="Photos/man-mandir9.jpg"
+       thumbnail="Photos/man-mandir9.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="Teli ka Mandir of Gwalior fort"
+       image="Photos/teli-ka-mandir1.jpg"
+       thumbnail="Photos/teli-ka-mandir1.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="Sas-Bahu ka Mandir of gwalior fort"
+       image="Photos/sas-bahu1.jpg"
+       thumbnail="Photos/sas-bahu1.jpg" />
+
+    <slide
+       title="The Gwalior Fort"
+       description="Chaturbhuj Mandir of Gwalior fort"
+       image="Photos/chaturbhuj4.jpg"
+       thumbnail="Photos/chaturbhuj4.jpg" />
+
+
+    <slide
+       title="The Arnala Fort"
+       description="The Arnala Fort"
+       image="Photos/arnala3.jpg"
+       thumbnail="Photos/arnala3.jpg" />
+
+
+    <slide
+       title="The Arnala Fort"
+       description="The Arnala Fort"
+       image="Photos/arnala5.jpg"
+       thumbnail="Photos/arnala5.jpg" />
+
+
+    <slide
+       title="The Arnala Fort"
+       description="The Arnala Fort"
+       image="Photos/arnala1.jpg"
+       thumbnail="Photos/arnala1.jpg" />
+
+    <slide
+       title="The Bekal Fort"
+       description="The Bekal Fort"
+       image="Photos/be3.jpg"
+       thumbnail="Photos/be3.jpg" />
+
+    <slide
+       title="The Bekal Fort"
+       description="The Bekal Fort"
+       image="Photos/be4.jpg"
+       thumbnail="Photos/be4.jpg" />
+
+    <slide
+       title="The Bekal Fort"
+       description="The Bekal Fort"
+       image="Photos/be5.jpg"
+       thumbnail="Photos/be5.jpg" />
+
+    <slide
+       title="The Bekal Fort"
+       description="The Bekal Fort"
+       image="Photos/be6.jpg"
+       thumbnail="Photos/be6.jpg" />
+
+    <slide
+       title="The Belgaum Fort"
+       description="The Belgaum Fort"
+       image="Photos/belgaum1.jpg"
+       thumbnail="Photos/belgaum1.jpg" />
+
+    <slide
+       title="The Belgaum Fort"
+       description="The Belgaum Fort"
+       image="Photos/belgaum3.jpg"
+       thumbnail="Photos/belgaum3.jpg" />
+
+    <slide
+       title="The Belgaum Fort"
+       description="The Belgaum Fort"
+       image="Photos/belgaum5.jpg"
+       thumbnail="Photos/belgaum5.jpg" />
+
+    <slide
+       title="The Belgaum Fort"
+       description="The Belgaum Fort"
+       image="Photos/belgaum2.jpg"
+       thumbnail="Photos/belgaum2.jpg" />
+
+  </album>
+
+
+  <album
+      title="Chanderi,Chitra Durga,Jhansi,Jaigarh,Fatehpur sikri fort"
+      description="Collection of pics from Chanderi,Chitra Durga,Jhansi,Jaigarh,FatehpurSikri fort"
+      image="Photos/chand1.jpg">
+
+    <slide
+       title="The Chanderi Fort"
+       description="The Chanderi Fort"
+       image="Photos/chand1.jpg"
+       thumbnail="Photos/chand1.jpg" />
+
+    <slide
+       title="The Chanderi Fort"
+       description="The Chanderi Fort"
+       image="Photos/chand2.jpg"
+       thumbnail="Photos/chand2.jpg" />
+
+    <slide
+       title="The Chanderi Fort"
+       description="The Chanderi Fort"
+       image="Photos/chand4.jpg"
+       thumbnail="Photos/chand4.jpg" />
+
+    <slide
+       title="The Chanderi Fort"
+       description="The Chanderi Fort"
+       image="Photos/chand9.jpg"
+       thumbnail="Photos/chand9.jpg" />
+
+    <slide
+       title="The Chitra Durga Fort"
+       description="The Citra Durga Fort"
+       image="Photos/chitra1.jpg"
+       thumbnail="Photos/chitra1.jpg" />
+
+
+    <slide
+       title="The Chitra Durga Fort"
+       description="The Citra Durga Fort"
+       image="Photos/chitra2.jpg"
+       thumbnail="Photos/chitra2.jpg" />
+
+
+    <slide
+       title="The Chitra Durga Fort"
+       description="The Citra Durga Fort"
+       image="Photos/chitra9.jpg"
+       thumbnail="Photos/chitra9.jpg" />
+
+
+    <slide
+       title="The Chitra Durga Fort"
+       description="The Citra Durga Fort"
+       image="Photos/chitra3.jpg"
+       thumbnail="Photos/chitra3.jpg" />
+
+
+    <slide
+       title="The Jhansi Fort"
+       description="The Jhansi Fort"
+       image="Photos/jhansi1.jpg"
+       thumbnail="Photos/jhansi1.jpg" />
+
+    <slide
+       title="The Jhansi Fort"
+       description="The Jhansi Fort"
+       image="Photos/jhansi8.jpg"
+       thumbnail="Photos/jhansi8.jpg" />
+
+    <slide
+       title="The Jhansi Fort"
+       description="The Jhansi Fort"
+       image="Photos/jhansi3.jpg"
+       thumbnail="Photos/jhansi3.jpg" />
+
+    <slide
+       title="The Jaigarh Fort"
+       description="The Jaigarh Fort"
+       image="Photos/jai7.jpg"
+       thumbnail="Photos/jai7.jpg" />
+
+    <slide
+       title="The Jaigarh Fort"
+       description="The Jaigarh Fort"
+       image="Photos/jai5.jpg"
+       thumbnail="Photos/jai5.jpg" />
+
+    <slide
+       title="The Jaigarh Fort"
+       description="The Jaigarh Fort"
+       image="Photos/jai6.jpg"
+       thumbnail="Photos/jai6.jpg" />
+
+    <slide
+       title="The Fatehpur Sikri Fort"
+       description="The Fatehpur Sikri Fort"
+       image="Photos/sik6.jpg"
+       thumbnail="Photos/sik6.jpg" />
+
+    <slide
+       title="The Fatehpur Sikri Fort"
+       description="The Fatehpur Sikri Fort"
+       image="Photos/sik9.jpg"
+       thumbnail="Photos/sik9.jpg" />
+
+    <slide
+       title="The Fatehpur Sikri Fort"
+       description="The Fatehpur Sikri Fort"
+       image="Photos/sik7.jpg"
+       thumbnail="Photos/sik7.jpg" />
+  </album>-->
+
+  <!--<album
+		title="Janjira,Daulatabad,Kalinjar,Junagarh fort"
+		description="Collection of pics from Janjira,Daulatabad,Kalinjar,Junagarh fort"
+		image="Photos/janjira1.jpg">
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira3.jpg"
+   thumbnail="Photos/janjira3.jpg" />
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira4.jpg"
+   thumbnail="Photos/janjira4.jpg" />
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira5.jpg"
+   thumbnail="Photos/janjira5.jpg" />
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira6.jpg"
+   thumbnail="Photos/janjira6.jpg" />
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira7.jpg"
+   thumbnail="Photos/janjira7.jpg" />
+
+<slide
+   title="The Janjira Fort"
+   description="The Janjira Fort"
+   image="Photos/janjira13.jpg"
+   thumbnail="Photos/janjira13.jpg" />
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Daulatabad Fort"
+   image="Photos/dau1.jpg"
+   thumbnail="Photos/dau1.jpg" />
+
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Daulatabad Fort"
+   image="Photos/dau11.jpg"
+   thumbnail="Photos/dau11.jpg" />
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Daulatabad Fort"
+   image="Photos/dau10.jpg"
+   thumbnail="Photos/dau10.jpg" />
+
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Daulatabad Fort"
+   image="Photos/dau3.jpg"
+   thumbnail="Photos/dau3.jpg" />
+
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Daulatabad Fort"
+   image="Photos/dau8.jpg"
+   thumbnail="Photos/dau8.jpg" />
+
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Charminar in Daulatabad Fort"
+   image="Photos/char1.jpg"
+   thumbnail="Photos/char1.jpg" />
+
+
+<slide
+   title="The Daulatabad Fort"
+   description="The Charminar in Daulatabad Fort"
+   image="Photos/char2.jpg"
+   thumbnail="Photos/char2.jpg" />
+
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali1.jpg"
+   thumbnail="Photos/kali1.jpg" />
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali2.jpg"
+   thumbnail="Photos/kali2.jpg" />
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali3.jpg"
+   thumbnail="Photos/kali3.jpg" />
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali4.jpg"
+   thumbnail="Photos/kali4.jpg" />
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali5.jpg"
+   thumbnail="Photos/kali5.jpg" />
+
+<slide
+   title="The Kalinjar Fort"
+   description="The Kalinjar Fort"
+   image="Photos/kali6.jpg"
+   thumbnail="Photos/kali6.jpg" />
+
+<slide
+   title="The Junagarh Fort"
+   description="The Junagarh Fort"
+   image="Photos/junagarh10.jpg"
+   thumbnail="Photos/junagarh10.jpg" />
+
+<slide
+   title="The Junagarh Fort"
+   description="The Junagarh Fort"
+   image="Photos/junagarh2.jpg"
+   thumbnail="Photos/junagarh2.jpg" />
+
+<slide
+   title="The Junagarh Fort"
+   description="The Junagarh Fort"
+   image="Photos/junagarh9.jpg"
+   thumbnail="Photos/junagarh9.jpg" />
+</album>-->
+
+  <!--<album
+      title="Golconda fort and Gingee fort"
+      description="Collection of pics from Golconda,Gingee fort"
+      image="Photos/gol2.jpg">
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/gol45.jpg"
+       thumbnail="Photos/gol45.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/gol46.jpg"
+       thumbnail="Photos/gol46.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/golconda1.jpg"
+       thumbnail="Photos/golconda1.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/gol3.jpg"
+       thumbnail="Photos/gol3.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/gol6.jpg"
+       thumbnail="Photos/gol6.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Golconda Fort"
+       image="Photos/golcondaFort.jpg"
+       thumbnail="Photos/golcondaFort.jpg" />
+
+
+    <slide
+       title="The golconda Fort"
+       description="The Balahissar gate of Golconda Fort"
+       image="Photos/bala123.jpg"
+       thumbnail="Photos/bala123.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Balahissar gate of Golconda Fort"
+       image="Photos/balahissar1.jpg"
+       thumbnail="Photos/balahissar1.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Toil masjid of Golconda Fort"
+       image="Photos/toli3.jpg"
+       thumbnail="Photos/toli3.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Toil masjid of Golconda Fort"
+       image="Photos/toli2.jpg"
+       thumbnail="Photos/toli2.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Qutub shahi tomb of Golconda Fort"
+       image="Photos/23tomb.jpg"
+       thumbnail="Photos/23tomb.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Qutub shahi tomb of Golconda Fort"
+       image="Photos/tomb2.jpg"
+       thumbnail="Photos/tomb2.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Durbarhall of Golconda Fort"
+       image="Photos/durbarhall89.jpg"
+       thumbnail="Photos/durbarhall89.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Durbarhall of Golconda Fort"
+       image="Photos/durbarhall8.jpg"
+       thumbnail="Photos/durbarhall8.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Charminar of Golconda Fort"
+       image="Photos/charminar100.jpg"
+       thumbnail="Photos/charminar100.jpg" />
+
+    <slide
+       title="The golconda Fort"
+       description="The Charminar of Golconda Fort"
+       image="Photos/charminar.jpg"
+       thumbnail="Photos/charminar.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Gingee Fort"
+       image="Photos/gingee1.jpg"
+       thumbnail="Photos/gingee1.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Gingee Fort"
+       image="Photos/gingee4.jpg"
+       thumbnail="Photos/gingee4.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Gingee Fort"
+       image="Photos/gingee5.jpg"
+       thumbnail="Photos/gingee5.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Gingee Fort"
+       image="Photos/gingee3.jpg"
+       thumbnail="Photos/gingee3.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Gingee Fort"
+       image="Photos/gingee6.jpg"
+       thumbnail="Photos/gingee6.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Then Kalyan mahal of Gingee Fort"
+       image="Photos/kalyan1.jpg"
+       thumbnail="Photos/kalyan1.jpg" />
+
+    <slide
+       title="The Gingee Fort"
+       description="The Then Kalyan mahal of Gingee Fort"
+       image="Photos/kalyan2.jpg"
+       thumbnail="Photos/kalyan2.jpg" />
+  </album>-->
+</data>
+

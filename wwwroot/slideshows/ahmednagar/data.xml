@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Ahmednagar"
+		description="Magnificent collection of pictures of The Ahmednagar"
+		image="Photos/harishchandra-gad.jpg">
+    <slide
+			title="Ahmednagar"
+			description="Harishchandragad"
+			image="Photos/harishchandra-gad.jpg"
+			thumbnail="Photos/harishchandra-gad.jpg" />
+    <slide
+            title="Ahmednagar"
+            description="Meherabad"
+            image="Photos/meher-baba-s-tomb-u-meherabad-india.jpg"
+            thumbnail="Photos/meher-baba-s-tomb-u-meherabad-india.jpg" />
+    <slide
+			title="Ahmednagar"
+			description="Ahmednagar Fort"
+			image="Photos/Ahmednagar-fort-1.jpg"
+			thumbnail="Photos/Ahmednagar-fort-1.jpg" />
+    <slide
+			title="Ahmednagar"
+			description="Ahmednagar Fort"
+			image="Photos/ahmednagar-fort.jpg"
+			thumbnail="Photos/ahmednagar-fort.jpg" />
+    <slide
+			title="Ahmednagar"
+			description="Konkan Kada"
+			image="Photos/Konkan Kada.jpg"
+			thumbnail="Photos/Konkan Kada.jpg" />
+    <slide
+			title="Ahmednagar"
+			description="Relegan Siddhi"
+			image="Photos/Cimages-Cmohata-Ahmednagar.png"
+			thumbnail="Photos/Cimages-Cmohata-Ahmednagar.png" />
+    <slide
+        title="Ahmednagar"
+        description="Kedareshwar"
+        image="Photos/Kedareshwar.jpg"
+        thumbnail="Photos/Kedareshwar.jpg" />
+    <slide
+       title="Ahmednagar"
+       description="Fariabagh"
+       image="Photos/Fariabagh.jpg"
+       thumbnail="Photos/Fariabagh.jpg" />
+    <slide
+       title="Ahmednagar"
+       description="Ahmed Shah Tomb"
+       image="Photos/Ahmed-Shah-Tomb.jpg"
+       thumbnail="Photos/Ahmed-Shah-Tomb.jpg" />
+  </album> 
+</data>
+

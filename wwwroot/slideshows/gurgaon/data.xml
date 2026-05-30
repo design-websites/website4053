@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Gurgaon"
+		description="Magnificent collection of pictures of The Gurgaon"
+		image="Photos/Damdama-Lake-Gurgaon.jpg">
+    <slide
+			title="Gurgaon"
+			description="Damdama Lake"
+			image="Photos/Damdama-Lake-Gurgaon.jpg"
+			thumbnail="Photos/Damdama-Lake-Gurgaon.jpg" />
+    <slide
+            title="Gurgaon"
+            description="Farukhnagar"
+            image="Photos/Farukhnagar.JPG"
+            thumbnail="Photos/Farukhnagar.JPG" />
+    <slide
+			title="Gurgaon"
+			description="Pataudi Palace Hotel"
+			image="Photos/Pataudi-Palace-Hotel.jpg"
+			thumbnail="Photos/Pataudi-Palace-Hotel.jpg" />
+    <slide
+			title="Gurgaon"
+			description="Sheetla Devi Temple"
+			image="Photos/Sheetla-Devi-Temple.jpg"
+			thumbnail="Photos/Sheetla-Devi-Temple.jpg" />
+    <slide
+			title="Gurgaon"
+			description="Sohna Resort And Spa"
+			image="Photos/Sohna-Resort-And-Spa.jpg"
+			thumbnail="Photos/Sohna-Resort-And-Spa.jpg" />
+    <slide
+			title="Gurgaon"
+			description="Sultanpur Lake Bird Sanctuary"
+			image="Photos/Sultanpur-Lake-Bird-Sanctuary-1.jpg"
+			thumbnail="Photos/Sultanpur-Lake-Bird-Sanctuary-1.jpg" />
+    <slide
+			title="Gurgaon"
+			description="Trident Hilton"
+			image="Photos/Trident-Hilton.jpg"
+			thumbnail="Photos/Trident-Hilton.jpg" />
+    <slide
+			title="Gurgaon"
+			description="Sultanpur Lake Bird Sanctuary"
+			image="Photos/Sultanpur-Lake-Bird-Sanctuary.jpg"
+			thumbnail="Photos/Sultanpur-Lake-Bird-Sanctuary.jpg" />
+    
+  </album> 
+</data>
+

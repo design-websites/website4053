@@ -1,0 +1,411 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Common.master.cs" Inherits="India" %>
+<%@ Register Src="~/appblock/ad468.ascx" TagName="right_468" TagPrefix="uc1_468" %>
+<%@ Register Src="~/appblock/search.ascx" TagName="search" TagPrefix="uc1_search" %>
+<%@ Register Src="~/appblock/analytics.ascx" TagName="analytics" TagPrefix="uc1_analytics" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Mithai</title>
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+    <script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/jquery.js" type="text/javascript"></script>
+    <script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/superfish.js" type="text/javascript"></script>
+    <link href="https://storage.googleapis.com/kreatewebsites/siteindia/Style/style.css" rel="stylesheet" type="text/css" />
+    <uc1_analytics:analytics ID="analytics" runat="server"></uc1_analytics:analytics>
+</head>
+<body id="home">
+      <div id="header-top" class="clearfix">
+		<div class="container clearfix">
+			<!-- Start Logo -->
+			<a href="">
+			<img src="https://storage.googleapis.com/kreatewebsites/siteindia/images/Logo.jpg" alt="Source Logo" id="logo"/>
+			</a>
+			<p id="slogan">Sweets</p>
+			<!-- End Logo -->
+			
+	<uc1_468:right_468 ID="right_468" runat="server"></uc1_468:right_468>
+			
+			<div id="cat-nav" class="clearfix">	
+				<div id="cat-nav-left"> </div>
+				<div id="cat-nav-content"> 
+					
+					<ul class="nav superfish clearfix sf-js-enabled">	
+<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="" title="Mithai">Mithai</a>&nbsp;<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="" title="North India Mithai">North India Mithai</a></li>
+<li class="cat-item cat-item-11"><a href="" title="East India Mithai">East India Mithai</a></li>
+<li class="cat-item cat-item-14"><a href="" title="South India Mithai">South India Mithai</a></li>
+<li class="cat-item cat-item-6"><a href="" title="West India Mithai">West India Mithai</a></li>
+<li class="cat-item cat-item-6"><a href="" title="Other Mithai">Other Mithai</a></li>
+
+</ul>
+</li>
+	<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="" title="Mithai Types">Mithai Types</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="" title="Milk-Based Mithai">Milk-Based Mithai</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Fried/Syrup Based Mithai">Fried/Syrup Based Mithai</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Halwa Mithai">Halwa Mithai</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Dessert">Dessert</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Burfi">Burfi</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Other Mithai Types">Other Mithai Types</a></li>
+
+
+</ul> 
+</li>
+<li class="cat-item cat-item-5 sf-ul"><a href="" title="Festive Occasions Mithai">Festive Occasions Mithai</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="" title="Khova Sweets">Khova Sweets</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Dry Fruits">Dry Fruits</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Ghee Items">Ghee Items</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Kaju Sweets">Kaju Sweets</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Syrupy Sweets">Syrupy Sweets</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Pumkin Sweets">Pumkin Sweets</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Sugar Free Sweets">Sugar Free Sweets</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Milk Sweets">Milk Sweets</a></li>
+<li class="cat-item cat-item-7"><a href="" title="Other Festive Occasions Mithai">Other Festive Occasions Mithai</a>
+
+</li>
+</ul>
+</li>
+<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="" title="Burfi">Burfi</a>
+<ul style="display: none; visibility: hidden;" class="children">
+
+<li class="cat-item cat-item-9"><a href="" title="Coconut Burfi">Coconut Burfi</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Dharwad Pedha">Dharwad Pedha</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Mysore Pak">Mysore Pak</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Kalakand">Kalakand</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Bal Mithai">Bal Mithai</a></li>
+<li class="cat-item cat-item-9"><a href="" title="Other Burfi">Other Burfi</a></li>
+
+</ul>
+
+
+
+
+
+</li>
+</ul>
+					<!-- Start Searchbox -->
+  
+<uc1_search:search ID="search" runat="server"></uc1_search:search>	
+	<!-- End Searchbox -->	
+
+
+
+			
+				</div> <!-- end #cat-nav-content -->
+				<div id="cat-nav-right"><!-- end #cat-nav -->		</div>
+			</div>
+		</div> 	<!-- end .container -->
+	</div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="content-bottom">
+	<div class="container">
+   <!--  google ad can be copied here -->
+    </div>
+    </div>
+    <div id="footer">
+	<div class="container clearfix">
+		
+		<div id="recent-comments-5" class="footer-widget widget_recent_comments"><h4 class="widgettitle">
+            South Asian Mithai</h4><ul id="recentcomments">
+
+             <li class="recentcomments"><a href=""  target="_blank" title="Barfi">Barfi</a></li>  
+             <li class="recentcomments"><a href=""  target="_blank" title="Chena Murki">Chena Murki</a></li> 
+             <li class="recentcomments"><a href=""  target="_blank" title="Chikki">Chikki</a></li> 
+             <li class="recentcomments"><a href=""  target="_blank" title="Gulab Jamun">Gulab Jamun</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Jalebi or Imarti">Jalebi or Imarti</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Khaja">Khaja</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Kulfi">Kulfi</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Kheer">Kheer</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Malpoa">Malpoa</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Motichoor">Motichoor</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Narkel Naru">Narkel Naru</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Parwal Ki Mithai">Parwal Ki Mithai</a></li>
+             <li class="recentcomments"><a href=""  target="_blank" title="Rasgulla">Rasgulla</a></li>
+                          <li class="recentcomments"><a href=""  target="_blank" title="Other South Asian Mithai">Other South Asian Mithai</a></li>
+         </ul></div> <!-- end .footer-widget -->
+            <div id="linkcat-2" class="footer-widget widget_links">
+            <h4 class="widgettitle">
+        Milk-Based Mithai</h4>
+	<ul class="xoxo blogroll">
+
+    <li><a href=""  target="_blank" title="Rasgulla">Rasgulla</a></li>
+    <li><a href=""  target="_blank" title="Rasmalai">Rasmalai</a></li>
+<li><a href=""  target="_blank" title="Ledikeni">Ledikeni</a></li>
+<li><a href=""  target="_blank" title="Pantua">Pantua</a></li>
+<li><a href=""  target="_blank" title="Chom-chom">Chom-chom</a></li>
+<li><a href=""  target="_blank" title="Rabri">Rabri</a></li>
+<li><a href=""  target="_blank" title="Pithe">Pithe</a></li>
+<li><a href=""  target="_blank" title="Chhena Jalebi">Chhena Jalebi</a></li>
+<li><a href=""  target="_blank" title="Malpua">Malpua</a></li>
+<li><a href=""  target="_blank" title="Kheersagar">Kheersagar</a></li>
+<li><a href=""  target="_blank" title="Rasabali">Rasabali</a></li>
+<li><a href=""  target="_blank" title="Chhena Gaja">Chhena Gaja</a></li>
+<li><a href=""  target="_blank" title="Chhena Poda">Chhena Poda</a></li>
+<li><a href="" target="_blank" title="Other Milk-Based Mithai">Other Milk-Based Mithai</a></li>
+	</ul>
+</div> <!-- end .footer-widget -->
+<div id="recent-posts-5" class="footer-widget widget_meta">		<h4 class="widgettitle">
+            Travel Websites</h4>		<ul>
+			
+                            <li><a href="https://www.uscitytrip.com/" target="_blank" title="US City Trip">US City Trip</a></li>
+				<li><a href="https://www.europecitytrip.com" target="_blank" title="Europe City Trip">Europe City Trip</a></li>
+				<li><a href="https://www.canadacitytrip.com/"  target="_blank" title="Canada City Trip">Canada City Trip</a></li>
+				<li><a href="https://www.italycitytrip.com/" target="_blank" title="Italy City Trip">Italy City Trip</a></li>
+				<li><a href="https://www.francecitytrip.com/"  target="_blank" title="France City Trip">France City Trip</a></li>
+                <li><a href="https://www.usroadtrip.org/"  target="_blank" title="US Road Trip">US Road Trip</a></li>
+                <li><a href="https://www.us-tour.net/" target="_blank" title="Places to see in US">Places to see in US</a></li>
+                 <li><a href="https://www.africatrip.info/"  target="_blank" title="Africa Trip">Africa Trip</a></li>
+                <li><a href="https://www.dubaitrip.info/" target="_blank" title="Dubai Trip">Dubai Trip</a></li>
+                <li><a href="https://www.singapore.net/" target="_blank" title="Singapore Trip">Singapore Trip</a></li>
+                <li><a href="https://www.ukcitytrip.com/" target="_blank" title="Dubai Trip">UK City Trip</a></li>
+                 <li><a href="https://www.indiatrip.mobi/" target="_blank" title="Dubai Trip">India  Trip</a></li>
+                 <li><a href="https://www.places-to-see.net/" target="_blank" title="Places to see">Places to see</a></li>
+                 <li><a href="https://www.things-to-do.biz/" target="_blank" title="Things to do">Things to do</a></li>
+                  <li><a href="https://www.thingstosee.mobi/" target="_blank" title="Things to do">Things to see</a></li>
+                 <li><a href="https://www.placetovisit.org/" target="_blank" title="Places to visit">Places to visit</a></li>
+                 <li><a href="https://www.thingstovisit.com/" target="_blank" title="Things to visit">Things to visit</a></li>
+			
+
+
+				</ul>
+		</div>
+		
+<div id="meta-4" class="footer-widget widget_recent_entries last"><h4 class="widgettitle">Follow Us on</h4>			
+<ul>
+<li><a href="https://www.facebook.com/uscitytrip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+" title=""><img src="images/faceBook.png" style="width:100px; height:40px"   alt="Facebook" title="Follow us on Facebook" />   </a></li>
+<li><a href="https://twitter.com/uscitytrip" title="Follow us on Twitter" target="_blank"  ><img src="images/twitter.png" style="width:100px; height:40px" alt="Twitter" title="Follow us on Twitter" /></a></li>
+<li><a href="https://digg.com/placestosee" title=""><img src="images/digg.png"  alt="digg" style="width:100px; height:40px" title="Follow us on digg" />   </a></li>
+<li><a href="#" title=""><img src="images/linkedin.png"  alt="Linkedin" style="width:100px; height:40px" title="Follow us on Linkedin" />   </a></li>
+
+</ul>
+</div>
+
+<!-- end .footer-widget -->		
+		<div class="clear"></div>
+
+	</div> <!--end .container -->
+</div> <!-- end #footer -->
+
+<div id="footer-bottom">
+	<div class="container clearfix">	
+		<ul class="bottom-nav"> 
+            <li class="current_page_item"><a href=""  target="_blank" title"Mithai">Mithai</a></li>
+			<li class="page_item page-item-127"><a href="" target="_blank"  title="Mithai Types">Mithai Types</a></li>
+            <li class="page_item page-item-130"><a href="" target="_blank" title="Festive Occasion Mithai">Gujrat Cities</a></li>
+            <li class="page_item page-item-134"><a href="" target="_blank"  title="Burfi">Burfi</a></li>
+            <li class="page_item page-item-135"><a href="https://wwww.newboss.mobi" target="_blank" title="Career">Career</a></li>
+            <li class="page_item page-item-135"><a href="Resources.aspx" target="_blank" title="Resources">Resources</a></li>
+            <li class="page_item page-item-135"><a href="Sitemap.aspx" title="Sitemap">Sitemap</a></li>
+			
+         </ul>		
+		<p id="copyright"> Web Design  <a href="https://www.cheap-websites.info" target="_blank" title="Cheap Websites">Cheap Websites</a> | Tested on  <a href="https://www.internet-explorer9.com" title="Internet Explorer">Internet Explorer</a></p>
+	</div> <!--end .container -->
+</div> <!-- end #footer-bottom -->
+<script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+	
+		jQuery('ul.superfish, #page-menu ul.nav').superfish({ 
+			delay:       200,                            // one second delay on mouseout 
+			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+			speed:       'fast',                          // faster animation speed 
+			autoArrows:  true,                           // disable generation of arrow mark-up 
+			dropShadows: false                            // disable drop shadows 
+		});
+		
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul'); 
+		
+		et_search_bar();
+		et_footer_improvements('#footer .footer-widget');
+		
+		<!---- et_switcher plugin v1.3 ---->
+		(function($)
+		{
+			$.fn.et_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements in defining lengths
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'prevlink',
+				   arrowRight: 'nextlink',
+				   auto: false,
+				   autoSpeed: 5000
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this);
+					slidesContainer.find(options.slides).hide().end().find(options.slides).filter(':first').css('display','block');
+			 
+					if (options.linksNav != '') { 
+						var linkSwitcher = jQuery(options.linksNav);
+										
+						linkSwitcher.click(function(){
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+
+							if (targetElement.hasClass('active')) return false;
+
+							targetElement.siblings().removeClass('active').end().addClass('active');
+
+							var ordernum = targetElement.prevAll(options.lengthElement).length;
+											
+							slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+							return false;
+						});
+					};
+					
+					jQuery('#'+options.arrowRight+', #'+options.arrowLeft).click(function(){
+					  
+						var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+							nextSlide = slideActive.next(),
+							prevSlide = slideActive.prev();
+
+						if (jQuery(this).attr("id") == options.arrowRight) {
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						};
+
+						if (jQuery(this).attr("id") == options.arrowLeft) {
+							if (prevSlide.length) {
+								var ordernum = prevSlide.prevAll().length;                  
+							} else { var ordernum = slidesContainer.find(options.slides).length-1; }
+						};
+
+						slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+
+						if (typeof interval != 'undefined') {
+							clearInterval(interval);
+							auto_rotate();
+						};
+
+						return false;
+					});   
+
+					if (options.auto) {
+						auto_rotate();
+					};
+					
+					function auto_rotate(){
+						interval = setInterval(function(){
+							var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+								nextSlide = slideActive.next();
+						 
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						 
+							if (options.linksNav === '') 
+								jQuery('#'+options.arrowRight).trigger("click");
+							else 		 		
+								linkSwitcher.filter(':eq('+ordernum+')').trigger("click");
+						},options.autoSpeed);
+					};
+				});
+			}
+		})(jQuery);
+		
+		
+		var $featuredArea = jQuery('#featured'),
+			$all_tabs = jQuery('#all_tabs');
+		
+		if ($featuredArea.length) {
+			$featuredArea.et_switcher({
+				useArrows: true ,
+										auto: true,
+										autoSpeed: 5000										
+			});
+		};
+				
+		if ($all_tabs.length) {
+			$all_tabs.et_switcher({
+				linksNav: 'ul#tab_controls li a'
+			});
+		}; 
+
+				
+		<!---- Footer Improvements ---->
+		function et_footer_improvements($selector){
+			var $footer_widget = jQuery($selector);
+		
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+		};
+		
+		<!---- Search Bar Improvements ---->
+		function et_search_bar(){
+			var $searchform = jQuery('#cat-nav div#search-form'),
+				$searchinput = $searchform.find("input#searchinput"),
+				searchvalue = $searchinput.val();
+				
+			$searchinput.focus(function(){
+				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+			}).blur(function(){
+				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+			});
+		};
+		
+	//]]>	
+	</script>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-18714837-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+</html>
+

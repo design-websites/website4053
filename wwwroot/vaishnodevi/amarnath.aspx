@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="amarnath.aspx.cs" Inherits="Default" %>

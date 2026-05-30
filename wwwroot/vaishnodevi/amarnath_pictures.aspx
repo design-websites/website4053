@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Amarnath_pictures.aspx.cs" Inherits="Default" %>

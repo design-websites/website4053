@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Jabalpur"
+		description="Magnificent collection of pictures of Jabalpur"
+		image="Photos/Marble-Rocks.jpg">
+    <slide
+        title="Jabalpur"
+        description="Marble Rock"
+        image="Photos/Marble-Rocks.jpg"
+        thumbnail="Photos/Marble-Rocks.jpg" />
+    <slide
+			title="Jabalpur"
+			description="Balance Rock"
+			image="Photos/Balance_Rock_at_Jabalpur.jpg"
+			thumbnail="Photos/Balance_Rock_at_Jabalpur.jpg" />
+    <slide
+			title="Jabalpur"
+			description="Chausat Yogini Temple"
+			image="Photos/jabalpur-Chausat-Yogini-Temple.jpg"
+			thumbnail="Photos/jabalpur-Chausat-Yogini-Temple.jpg" />
+    <slide
+        title="Jabalpur"
+        description="Marble Rock"
+        image="Photos/Jabalpur-6368_3.jpg"
+        thumbnail="Photos/Jabalpur-6368_3.jpg" />
+    <slide
+            title="Jabalpur"
+            description="Kanha National Park"
+            image="Photos/jabalpur-Kanha-National-Park.jpg"
+            thumbnail="Photos/jabalpur-Kanha-National-Park.jpg" />
+    <slide
+            title="Jabalpur"
+            description="Rani Durgavati Memorial And Museum"
+            image="Photos/jabalpur-Rani-Durgavati-Memorial-and-Museum.jpg"
+            thumbnail="Photos/jabalpur-Rani-Durgavati-Memorial-and-Museum.jpg" />
+    <slide
+            title="Jabalpur"
+            description="Madan Mahal Fort"
+            image="Photos/jabalpur-Madan-Mahal-Fort.jpg"
+            thumbnail="Photos/jabalpur-Madan-Mahal-Fort.jpg" />
+    <slide
+            title="Jabalpur"
+            description="Marble Rock"
+            image="Photos/marble-rock.jpg"
+            thumbnail="Photos/marble-rock.jpg" />
+   <slide
+            title="Jabalpur"
+            description="Narmada River"
+            image="Photos/Narmada-River.jpg"
+            thumbnail="Photos/Narmada-River.jpg" />
+    <slide
+           title="Jabalpur"
+           description="Rookhad"
+           image="Photos/jabalpur-Rookhad.jpg"
+           thumbnail="Photos/jabalpur-Rookhad.jpg" />
+   
+  </album>
+
+</data>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Imphal"
+		description="Magnificent collection of pictures of Imphal"
+		image="Photos/imphal-Commonwealth-War-Graves-Cemeteries.jpg">
+    <slide
+        title="Imphal"
+        description="Commonwaelth War Graves Cemeteries"
+        image="Photos/imphal-Commonwealth-War-Graves-Cemeteries.jpg"
+        thumbnail="Photos/imphal-Commonwealth-War-Graves-Cemeteries.jpg" />
+    <slide
+			title="Imphal"
+			description="Loktak Lake"
+			image="Photos/Imphal-loktak-lake.jpg"
+			thumbnail="Photos/Imphal-loktak-lake.jpg" />
+    <slide
+			title="Imphal"
+			description="Manipur Zoological Garden"
+			image="Photos/Imphal-ManipurZoologicalGarden.jpg"
+			thumbnail="Photos/Imphal-ManipurZoologicalGarden.jpg" />
+    <slide
+			title="Imphal"
+			description="Singda"
+			image="Photos/Imphal-singda.jpg"
+			thumbnail="Photos/Imphal-singda.jpg" />
+    <slide
+        title="Imphal"
+        description="Manipur State Museum"
+        image="Photos/Manipur-State-Museum-Imphal.jpg"
+        thumbnail="Photos/Manipur-State-Museum-Imphal.jpg" />
+    
+    <slide
+            title="Imphal"
+            description="Bishnupur"
+            image="Photos/Imphal-bishnupur.jpg"
+            thumbnail="Photos/Imphal-bishnupur.jpg" />
+  </album>
+
+</data>

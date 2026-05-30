@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Haridwar_Aartis.aspx.cs" Inherits="Default" %>

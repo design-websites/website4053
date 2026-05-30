@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Kolkata"
+		description="Magnificent collection of pictures of The Kolkata"
+		image="Photos/Victoria-Memorial.jpg">
+    
+    <slide
+        title="Kolkata"
+        description="Victoria Memorial"
+        image="Photos/Victoria-Memorial.jpg"
+        thumbnail="Photos/Victoria-Memorial.jpg" />
+    <slide
+            title="Kolkata"
+            description="Fort William"
+            image="Photos/kolkata-Fort-William.jpg"
+            thumbnail="Photos/kolkata-Fort-William.jpg" />
+    <slide
+        title="Kolkata"
+        description="Rabindra Setu"
+        image="Photos/Rabindra-Setu.jpg"
+        thumbnail="photos/Rabindra-Setu.jpg" />
+    <slide
+			title="Kolkata"
+			description="Eden Garden"
+			image="Photos/kolkata-Eden-Garden.jpg"
+			thumbnail="Photos/kolkata-Eden-Garden.jpg" />
+    <slide
+			title="Kolkata"
+			description="Marble Palace"
+			image="Photos/kolkata-Marble-Palace.jpg"
+			thumbnail="Photos/kolkata-Marble-Palace.jpg" />
+    <slide
+			title="Kolkata"
+			description="Nandan"
+			image="Photos/kolkata-Nandan.jpg"
+			thumbnail="Photos/kolkata-Nandan.jpg" />
+    <slide
+			title="Kolkata"
+			description="Durga Devi"
+			image="photos/KolkataDurgaPuja.jpg"
+			thumbnail="Photos/KolkataDurgaPuja.jpg" />
+    <slide
+			title="Kolkata"
+			description="Ochterlony Monument"
+			image="Photos/kolkata-Ochterlony-Monument.jpg"
+			thumbnail="Photos/kolkata-Ochterlony-Monument.jpg" />
+         
+      </album>
+  </data>
+

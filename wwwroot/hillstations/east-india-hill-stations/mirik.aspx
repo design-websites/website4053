@@ -1,0 +1,81 @@
+<%@ Page Language="C#" MasterPageFile="../Inside.Master" AutoEventWireup="true" CodeFile="Mirik.aspx.cs" Inherits="Mirik" 
+Title="India Hill Stations - Mirik Hill Station, Mirik, Mirik Tourism, East India Hill Stations, Hill Stations in India"  CodeFileBaseClass="BasePage" Meta_Description="Mirik Hill Station - The place is only 49 km from Darjeeling and 52 km from Siliguri and can be reached from anywhere with ease." Meta_Keywords="India Hill Stations - Mirik Hill Station, Mirik, Mirik Tourism, East India Hill Stations, Best time to visit Mirik, Mirik location, altitude of Mirik, Hill stations in india, Darjeeling, peaceful place"   %>
+<%@ Register Src="../control/East.ascx" TagName="right" TagPrefix="uc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+<script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/jquery.js" type="text/javascript"></script>
+<script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/superfish.js" type="text/javascript"></script>
+<link href="https://storage.googleapis.com/kreatewebsites/siteindia/Style/subpage.css" rel="stylesheet" type="text/css" />
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<div class="slide" style="background: url(https://storage.googleapis.com/kreatewebsites/banner/mirik-pictures.jpg) no-repeat scroll center top rgb(77, 26, 11); display: block;">
+     <!-- end .container --> 
+  </div> <!-- end .slide --> 
+  
+  <div class="container">  
+ <div id="main-content-wrap">
+  <div id="main-content" class="clearfix">
+   <div id="breadcrumbs">
+     <a href="../Default.aspx" title="India Hill Station">Home</a> &raquo; <a href="#" title="East India Hill Stations">East India Hill Stations</a> &raquo; Mirik</div> <!-- end #breadcrumbs -->   <div id="top-shadow"></div>
+   <div id="recent-posts" class="clearfix">
+    <div class="entry post clearfix">
+     <h1 class="title" title="Mirik Hill Station">Mirik</h1>
+     <div class="entry-content">
+<p>
+
+<img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/east-india-hill-stations/mirik-hill-station.jpg" title="Mirik hill station" alt="Mirik hill station, hill stations in india, east india hill stations, Mirik" style="width:200px;height:150px" class="thumb alignright"/>
+
+
+<b>Location:</b> West Bengal<br />
+<b>Area:</b> 126 sq.Kms<br />
+<b>Significance:</b> Eastern Beauty<br />
+<b>Altitude:</b> 1768m above sea level<br />
+<b>Best time to visit:</b> Throughout the year</p>     
+<p><b>Main Attractions:</b> Mountains, forest, Flower Gardens</p>
+<p>The place is only 49 km from Darjeeling and 52 km from <b>Siliguri</b> and can be reached from anywhere with ease. Mirik is 1,767 meters above sea level and has a relatively small population of 15,000. A new tourist destination, Mirik came in the tourist map of <b>Darjeeling</b> district only in 1970. Mirik has what it takes to attract tourists, is surrounded by forests, flowers and is a very <b>peaceful place</b> that attracts.</p>
+
+
+
+
+
+
+
+
+<table>
+<tr>
+<td>
+<script type="text/javascript"><!--
+    google_ad_client = "ca-pub-9932751777437258";
+    /* 468textonly */
+    google_ad_slot = "1278524043";
+    google_ad_width = 468;
+    google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+
+</td>
+
+<td>&nbsp;</td>
+<td>
+
+
+
+</td>
+</tr>
+</table> 
+
+
+
+             </div> <!-- end .entry-content -->
+    </div> <!-- end .entry -->   
+   <!-- You can start editing here. --></div> <!-- end #recent-posts -->
+            <uc1:right ID="right" runat="server"></uc1:right> 
+   <!-- end sidebar -->  
+   </div> <!-- end #main-content -->
+  </div> <!-- end #main-content-wrap -->
+ </div>
+</asp:Content>
+

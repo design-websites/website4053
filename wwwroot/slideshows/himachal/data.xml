@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Himachal"
+		description="Magnificent collection of pictures of The Himachal"
+		image="Photos/Himachal.png">
+    
+    <slide
+        title="Himachal"
+        description="The beauty of Himachal"
+        image="Photos/Himachal1.jpg"
+        thumbnail="Photos/Himachal1.jpg" />
+    <slide
+            title="Himachal"
+            description="The beauty of Himachal"
+            image="Photos/para_sailing_khajiar_himachal.jpg"
+            thumbnail="Photos/para_sailing_khajiar_himachal.jpg" />
+    <slide
+        title="Himachal"
+        description="The beauty of Himachal"
+        image="Photos/Himachal.png"
+        thumbnail="Photos/Himachal.png" />
+    <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/Himachal3.jpg"
+			thumbnail="Photos/Himachal3.jpg" />
+    <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/himachal-beas.jpg"
+			thumbnail="Photos/himachal-beas.jpg" />
+    <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/himachal-kinnaur2.jpg"
+			thumbnail="Photos/himachal-kinnaur2.jpg" />
+    
+    <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/himachal-pradesh-tourism-1.jpg"
+			thumbnail="Photos/himachal-pradesh-tourism-1.jpg" />
+   <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/himachal_hadim_temple.jpg"
+			thumbnail="Photos/himachal_hadim_temple.jpg" />
+    <slide
+        title="Himachal"
+        description="The beauty of Himachal"
+        image="Photos/himachal_shimla_chanshal.jpg"
+        thumbnail="Photos/himachal_shimla_chanshal.jpg" />
+       
+    <slide
+		title="Himachal"
+		description="The beauty of Himachal"
+		image="Photos/himalayan_leopard_2.jpg"
+    thumbnail="Photos/himalayan_leopard_2.jpg" />
+    <slide
+			title="Himachal"
+			description="The beauty of Himachal"
+			image="Photos/khajjiar_himachal_pradesh.jpg"
+			thumbnail="Photos/khajjiar_himachal_pradesh.jpg" />
+    
+  </album>
+  </data>
+

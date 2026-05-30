@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Faridabad"
+		description="Magnificent collection of pictures of The Faridabad"
+		image="Photos/Faridabad-Power-Plant.jpg">
+    <slide
+        title="Faridabad"
+        description="Power Plant"
+        image="Photos/Faridabad-Power-Plant.jpg"
+        thumbnail="Photos/Faridabad-Power-Plant.jpg" />
+    <slide
+            title="Faridabad"
+            description="The Aravalli Golf Course"
+            image="Photos/GolfCourse.jpg"
+            thumbnail="Photos/GolfCourse.jpg" />
+    <slide
+			title="Faridabad"
+			description="Peacock Lake"
+			image="Photos/peacock-faridabad.jpg"
+			thumbnail="Photos/peacock-faridabad.jpg" />
+    <slide
+			title="Faridabad"
+			description="Badkhal Lake"
+			image="Photos/badkhal-lake.jpg"
+			thumbnail="Photos/badkhal-lake.jpg" />
+    <slide
+			title="Faridabad"
+			description="Raja Nahar Singh Palace"
+			image="Photos/Raja-nahar-singh-palace.jpg"
+			thumbnail="Photos/Raja-nahar-singh-palace.jpg" />
+    <slide
+			title="Faridabad"
+			description="Surajkund Crafts Mela"
+			image="Photos/faridabad-Surajkund-Crafts-Mela.JPG"
+			thumbnail="Photos/faridabad-Surajkund-Crafts-Mela.JPG" />
+    
+  </album>
+</data>
+

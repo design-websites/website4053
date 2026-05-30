@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Amarnath_prayers.aspx.cs" Inherits="Default" %>

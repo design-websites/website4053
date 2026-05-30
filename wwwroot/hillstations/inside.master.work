@@ -1,0 +1,353 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Inside.master.cs" Inherits="Inside" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <script src="Js/jquery.js" type="text/javascript"></script>
+    <script src="Js/superfish.js" type="text/javascript"></script>
+    <link href="Style/subpage.css" rel="stylesheet" type="text/css" />
+    
+</head>
+<body>
+    <div id="header-top" class="clearfix">
+		<div class="container clearfix">
+			<!-- Start Logo -->
+			<a href="Default.aspx">
+				<img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/india-hill-station.png" alt="India Hill Station" title="India Hill Station" id="logo" />
+			</a>
+			<p id="slogan"></p>
+			<!-- End Logo -->
+			
+			<!-- Start Page-menu -->
+			<div id="page-menu">
+				<div id="p-menu-left"> </div>
+				<div id="p-menu-content">
+				
+					<ul class="nav clearfix sf-js-enabled"> 
+			<li><a href="../Default.aspx" title="India City Trip">Home</a></li>
+		<li class="page_item page-item-127 sf-ul"><a class="sf-with-ul" href="#" title="About India City trip">About</a>
+</li>
+<li class="page_item page-item-134"><a href="#" title="Location">Location</a></li>
+<li class="page_item page-item-132"><a href="#" title="Flight to India">Flight to India</a></li>
+<li class="page_item page-item-130 sf-ul"><a class="sf-with-ul" href="#" title="Contact">Contact</a>
+<ul style="display: none; visibility: hidden;" class="children">
+	<li class="page_item page-item-208"><a href="#" title="Email Contact">Email Contact</a></li>
+	<li class="page_item page-item-212"><a href="#" title="Submit a Ticket">Submit a Ticket</a></li>
+	<li class="page_item page-item-210"><a href="#" title="Support Forum">Support Forum</a></li>
+</ul>
+</li>
+<li class="page_item page-item-133"><a href="../Sitemap.aspx" title="Sitemap">Sitemap</a></li>
+</ul>				
+				</div>	
+				<div id="p-menu-right"> </div>
+			</div>	<!-- end #page-menu -->	
+			<!-- End Page-menu -->	
+			
+			<div id="cat-nav" class="clearfix">	
+				<div id="cat-nav-left"> </div>
+				<div id="cat-nav-content"> 
+					
+					<ul class="nav superfish clearfix sf-js-enabled">	<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="#" title="India Tourism">India Tourism</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Andhra-Pradesh.aspx" title="Andhra Pradesh Tourism">Andhra Pradesh Tourism</a></li>
+<li class="cat-item cat-item-11"><a href="https://www.indiacitytrip.com/Goa.aspx" title="Goa Tourism">Goa Tourism</a></li>
+<li class="cat-item cat-item-14"><a href="https://www.indiacitytrip.com/Himachal-Pradesh.aspx" title="Himachal Pradesh Tourism">Himachal Pradesh Tourism</a></li>
+<li class="cat-item cat-item-14"><a href="https://www.indiacitytrip.com/Kerala.aspx" title="Kerala Tourism">Kerala Tourism</a></li>
+<li class="cat-item cat-item-6"><a href="https://www.indiacitytrip.com/Rajasthan.aspx" title="Rajasthan Tourism">Rajasthan Tourism</a></li>
+   <li class="cat-item cat-item-6"><a href="https://www.indiacitytrip.com/India-States.aspx" title="India States">India States</a></li>    
+</ul>
+</li>
+	<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="#" title="Explore India">Explore India</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Astrologers-in-India.aspx" title="Astrologers in India">Astrologers in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Beauty-Parlors-in-India.aspx" title="Beauty Parlors in India">Beauty Parlors in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Best-Train-Journeys-in-India.aspx" title="Best Train Journeys in India">Best Train Journeys in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Cinema-Theaters-in-India.aspx" title="Cinema Theaters in India">Cinema Theaters in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Dentists-in-India.aspx" title="Dentists in India">Dentists in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Jewelry-Shops-in-India.aspx" title="Jewelry Shops in India">Jewelry Shops in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Hospitals-in-India.aspx" title="Hospitals in India">Hospitals in India</a></li>
+
+
+</ul> 
+</li>
+	<li class="cat-item cat-item-5"><a href="#" title="Attractions in India">Attractions in India</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="#" title="Holidays in India">Holidays in India</a>
+</li>
+	<li class="cat-item cat-item-8 sf-ul"><a class="sf-with-ul" href="#" title="Festivals in India">Festivals in India</a>
+<ul style="display: none; visibility: hidden;" class="children">
+	<li class="cat-item cat-item-19"><a href="#" title="Happy Diwali">Diwali</a></li>
+	<li class="cat-item cat-item-13"><a href="#" title="Chrismas and New Year">Chrismas & New Year</a></li>
+	<li class="cat-item cat-item-16"><a href="#" title="Makar Sankranti">Makar Sankranti</a></li>
+    <li class="cat-item cat-item-16"><a href="#" title="Happy Holi">Holi</a></li>
+    <li class="cat-item cat-item-16"><a href="#" title="Maha Shivaratri">Maha Shivaratri</a></li>
+</ul>
+</li>
+
+<li class="cat-item cat-item-3 sf-ul"><a class="sf-with-ul" href="../India-Travel-Tips.aspx" title="India Travel Tips">India Travel Tips</a>
+<ul style="display: none; visibility: hidden;" class="children">
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Interesting-Facts-About-India.aspx" title="Interesting Facts About India">Interesting Facts</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Best-Train-Journeys-in-India.aspx" title="Best Train Journeys in India">Best Train Journeys</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Best-places-to-visit-in-india.aspx" title="Ten Best Places to Visit in India">Ten Best Places</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Honeymoon-Places-in-India.aspx" title="Honeymoon Places in India">Honeymoon Places in India</a></li>
+
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Travel-Agents-in-India.aspx" title="Travel Agents in India">Travel Agents in India</a></li>
+<li class="cat-item cat-item-9"><a href="https://www.indiacitytrip.com/Wildlife-in-India.aspx" title="wildlife in India">Wildlife in India</a></li>
+</ul>
+
+
+</li>
+
+</ul>
+					<!-- Start Searchbox -->
+					<div id="search-form">
+</div>
+
+				<!-- End Searchbox -->	
+				</div> <!-- end #cat-nav-content -->
+				<div id="cat-nav-right"> </div>
+			</div>	<!-- end #cat-nav -->	
+		</div> 	<!-- end .container -->
+	</div> 	<!-- end #header-top -->  
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+               </asp:ContentPlaceHolder>
+    
+
+    </div>
+  <div id="content-bottom">
+	<div class="container"></div>
+    </div>
+    <div id="footer">
+	<div class="container clearfix">
+		
+		<div id="recent-comments-5" class="footer-widget widget_recent_comments"><h4 class="widgettitle">
+            Festival&nbsp; in India</h4><ul id="recentcomments">
+            <li class="recentcomments"><a href="#" title="Hindu Festivals 2011 List">Hindu Festivals 2011 List</a></li>
+            <li class="recentcomments"><a href="#" title="Holi Festival 2011">Holi Festival 2011</a></li>
+            <li class="recentcomments"><a href="#" title="Durga Puja Festival">Durga Puja Festival</a></li>
+            <li class="recentcomments"><a href="#" title="Rath-Yatra Festival 2011">Rath-Yatra Festival 2011</a></li>
+            </ul></div> <!-- end .footer-widget -->
+            <div id="linkcat-2" class="footer-widget widget_links">
+            <h4 class="widgettitle">
+        Places to see in India</h4>
+	<ul class="xoxo blogroll">
+<li><a href="https://www.indiacitytrip.com/Rajasthan-Destinations/Udaipur.aspx"  target="_blank" title="Udaipur tour">Udaipur</a></li>
+<li><a href="https://www.indiacitytrip.com/Kerala-Destinations/Munnar.aspx" target="_blank" title="Munnar tour">Munnar</a></li>
+<li><a href="https://www.indiacitytrip.com/West-Bengal.aspx" target="_blank" title="West Bengal tour">West Bengal</a></li>
+<li><a href="https://www.indiacitytrip.com/ " target="_blank" title="Nainital tour">Nainital</a></li>
+<li><a href="https://www.indiacitytrip.com/Jammu-Kashmir.aspx" target="_blank" title="Jammu tour">Jammu</a></li>
+<li><a href="https://www.indiacitytrip.com/Rajasthan-Destinations/Jaipur.aspx" target="_blank" title="Jaipur tour">Jaipur</a></li>
+<li><a href="https://www.indiacitytrip.com/Rajasthan-Destinations/places-to-see-in-jodhpur.aspx" target="_blank"  title="Jodhpur tour">Jodhpur</a></li>
+<li><a href="https://www.indiacitytrip.com/Tamil-Nadu-Destinations/Chennai.aspx" target="_blank" title="Chennai Tour">Chennai</a></li>
+	</ul>
+</div> <!-- end .footer-widget -->
+<div id="recent-posts-5" class="footer-widget widget_meta">		<h4 class="widgettitle">
+            Travel Websites</h4>		<ul>
+            
+                 <li><a href="https://www.uscitytrip.com/" target="_blank" title="US City Trip">US City Trip</a></li>
+				<li><a href="https://www.europecitytrip.com" target="_blank" title="Europe City Trip">Europe City Trip</a></li>
+				<li><a href="https://www.canadacitytrip.com/"  target="_blank" title="Canada City Trip">Canada City Trip</a></li>
+				<li><a href="https://www.italycitytrip.com/" target="_blank" title="Italy City Trip">Italy City Trip</a></li>
+				<li><a href="https://www.francecitytrip.com/"  target="_blank" title="France City Trip">France City Trip</a></li>
+                <li><a href="https://www.usroadtrip.org/"  target="_blank" title="US Road Trip">US Road Trip</a></li>
+                <li><a href="https://www.us-tour.net/" target="_blank" title="Places to see in US">Places to see in US</a></li>
+
+				</ul>
+		</div>
+		
+<div id="meta-4" class="footer-widget widget_recent_entries last"><h4 class="widgettitle">Follow Us on</h4>			
+<ul>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/faceBook.png" style="width:100px; height:40px"   alt="Facebook" title="Follow us on Facebook" />   </a></li>
+<li><a href="https://twitter.com/indiacitytrip" target="_blank"  title="Follow us on Twitter"><img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/twitter.png" style="width:100px; height:40px" alt="Twitter" title="Follow us on Twitter" /></a></li>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/digg.png"  alt="digg" style="width:100px; height:40px" title="Follow us on digg" />   </a></li>
+<li><a href="#" title=""><img src="https://storage.googleapis.com/createweb/INDIAHILLSTATION.INFO/images/linkedin.png"  alt="Linkedin" style="width:100px; height:40px" title="Follow us on Linkedin" />   </a></li>
+
+</ul>
+</div>
+
+<!-- end .footer-widget -->				<div class="clear"></div>
+
+	</div> <!--end .container -->
+</div> <!-- end #footer -->
+
+<div id="footer-bottom">
+	<div class="container clearfix">	
+		<ul class="bottom-nav"> 
+            <li class="current_page_item"><a href="../Default.aspx">Home</a></li>
+            <li class="page_item page-item-127"><a href="../AboutUs.aspx" title="About">About</a></li>
+            <li class="page_item page-item-130"><a href="#" title="Contact">Contact</a></li>
+            <li class="page_item page-item-134"><a href="#" title="Location">Flight to India</a></li>
+            <li class="page_item page-item-132"><a href="https://www.deshhotel.com/" title="Hotels Book">Hotels Book</a></li>
+            <li class="page_item page-item-135"><a href="../Career.aspx" title="Career">Career</a></li>
+            <li class="page_item page-item-135"><a href="../Resources.aspx" title="Resources">Resources</a></li>
+            <li class="page_item page-item-135"><a href="../Sitemap.aspx" title="Sitemap">Sitemap</a></li>
+            <li class="page_item page-item-135"><a href="../PrivacyPolicy.aspx" title="Privacy Policy">Privacy Policy</a></li>
+         </ul>		
+		<p id="copyright">Designed by  <a href="#" title="Deshstar">Deshstar</a> | Powered by  <a href="#" title="India City Trip">India City Trip</a></p>
+	</div> <!--end .container -->
+</div> <!-- end #footer-bottom -->
+<script type="text/javascript">
+	//<![CDATA[
+		jQuery.noConflict();
+	
+		jQuery('ul.superfish, #page-menu ul.nav').superfish({ 
+			delay:       200,                            // one second delay on mouseout 
+			animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+			speed:       'fast',                          // faster animation speed 
+			autoArrows:  true,                           // disable generation of arrow mark-up 
+			dropShadows: false                            // disable drop shadows 
+		});
+		
+		jQuery('ul.nav > li > a.sf-with-ul').parent('li').addClass('sf-ul'); 
+		
+		et_search_bar();
+		et_footer_improvements('#footer .footer-widget');
+		
+		<!---- et_switcher plugin v1.3 ---->
+		(function($)
+		{
+			$.fn.et_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements in defining lengths
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'prevlink',
+				   arrowRight: 'nextlink',
+				   auto: false,
+				   autoSpeed: 5000
+				};
+
+				var options = $.extend(defaults, options);
+
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this);
+					slidesContainer.find(options.slides).hide().end().find(options.slides).filter(':first').css('display','block');
+			 
+					if (options.linksNav != '') { 
+						var linkSwitcher = jQuery(options.linksNav);
+										
+						linkSwitcher.click(function(){
+							var targetElement;
+
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+
+							if (targetElement.hasClass('active')) return false;
+
+							targetElement.siblings().removeClass('active').end().addClass('active');
+
+							var ordernum = targetElement.prevAll(options.lengthElement).length;
+											
+							slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+							return false;
+						});
+					};
+					
+					jQuery('#'+options.arrowRight+', #'+options.arrowLeft).click(function(){
+					  
+						var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+							nextSlide = slideActive.next(),
+							prevSlide = slideActive.prev();
+
+						if (jQuery(this).attr("id") == options.arrowRight) {
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						};
+
+						if (jQuery(this).attr("id") == options.arrowLeft) {
+							if (prevSlide.length) {
+								var ordernum = prevSlide.prevAll().length;                  
+							} else { var ordernum = slidesContainer.find(options.slides).length-1; }
+						};
+
+						slidesContainer.find(options.slides).filter(':visible').hide().end().end().find(options.slides).filter(':eq('+ordernum+')').stop().fadeIn(700);
+
+						if (typeof interval != 'undefined') {
+							clearInterval(interval);
+							auto_rotate();
+						};
+
+						return false;
+					});   
+
+					if (options.auto) {
+						auto_rotate();
+					};
+					
+					function auto_rotate(){
+						interval = setInterval(function(){
+							var slideActive = slidesContainer.find(options.slides).filter(":visible"),
+								nextSlide = slideActive.next();
+						 
+							if (nextSlide.length) {
+								var ordernum = nextSlide.prevAll().length;                        
+							} else { var ordernum = 0; }
+						 
+							if (options.linksNav === '') 
+								jQuery('#'+options.arrowRight).trigger("click");
+							else 		 		
+								linkSwitcher.filter(':eq('+ordernum+')').trigger("click");
+						},options.autoSpeed);
+					};
+				});
+			}
+		})(jQuery);
+		
+		
+		var $featuredArea = jQuery('#featured'),
+			$all_tabs = jQuery('#all_tabs');
+		
+		if ($featuredArea.length) {
+			$featuredArea.et_switcher({
+				useArrows: true ,
+										auto: true,
+										autoSpeed: 5000										
+			});
+		};
+				
+		if ($all_tabs.length) {
+			$all_tabs.et_switcher({
+				linksNav: 'ul#tab_controls li a'
+			});
+		}; 
+
+				
+		<!---- Footer Improvements ---->
+		function et_footer_improvements($selector){
+			var $footer_widget = jQuery($selector);
+		
+			if (!($footer_widget.length == 0)) {
+				$footer_widget.each(function (index, domEle) {
+					if ((index+1)%4 == 0) jQuery(domEle).addClass("last").after("<div class='clear'></div>");
+				});
+			};
+		};
+		
+		<!---- Search Bar Improvements ---->
+		function et_search_bar(){
+			var $searchform = jQuery('#cat-nav div#search-form'),
+				$searchinput = $searchform.find("input#searchinput"),
+				searchvalue = $searchinput.val();
+				
+			$searchinput.focus(function(){
+				if (jQuery(this).val() === searchvalue) jQuery(this).val("");
+			}).blur(function(){
+				if (jQuery(this).val() === "") jQuery(this).val(searchvalue);
+			});
+		};
+		
+	//]]>	
+	</script>
+</body>
+</html>

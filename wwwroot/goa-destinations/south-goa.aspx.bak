@@ -1,0 +1,61 @@
+<%@ Page Language="C#" MasterPageFile="../Inside.Master" AutoEventWireup="true" CodeFile="South-Goa.aspx.cs" Inherits="South"
+Title="IndiaCityTrip - South Goa Tour Packages,Tours to South Goa,South Goa Tourism,South Goa Tours,Packages to South Goa,Tourism in South Goa." CodeFileBaseClass="BasePage" 
+Meta_Description="Indiacitytrip - The southern district of Goa, also called as south Goa , is spread in 1966 sq km of area. The beaches here are very beautiful and pristine." 
+Meta_Keywords="IndiaCityTrip - South Goa Tour Packages,Tours to South Goa,South Goa Tourism,South Goa Tours,Packages to South Goa,Tourism in South Goa, Goa Destinations, Wildlife in goa, festivals in goa, Places to see in South Goa, Sahyadri Mountains, Low Lands, Plateau Lands, Margao"%>
+<%@ Register Src="../control/Goa.ascx" TagName="right" TagPrefix="uc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+<script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/jquery.js" type="text/javascript"></script>
+    <script src="https://storage.googleapis.com/kreatewebsites/siteindia/Js/superfish.js" type="text/javascript"></script>
+    <link href="https://storage.googleapis.com/kreatewebsites/siteindia/Style/subpage.css" rel="stylesheet" type="text/css" />
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<div class="slide" style="background: url(https://storage.googleapis.com/kreatewebsites/banner_all/South-Goa.jpg) no-repeat scroll center top rgb(77, 26, 11); display: block;">
+			 	<!-- end .container -->	
+		</div> <!-- end .slide -->	
+  
+  <div class="container">		
+	<div id="main-content-wrap">
+		<div id="main-content" class="clearfix">
+			<div id="breadcrumbs">
+					<a href="../Default.aspx" title="India City Trip">Home</a> &raquo; <a href="../Goa.aspx"" title="Goa Destinations">Goa Destinations</a> &raquo; South Goa</div> <!-- end #breadcrumbs -->			<div id="top-shadow"></div>
+			<div id="recent-posts" class="clearfix">
+				<div class="entry post clearfix">
+					<h1 class="title" title="South Goa Tourism">South Goa</h1>
+					<div class="entry-content">
+<p>The southern district of Goa, also called as south Goa , is spread in 1966 sq km of area. The beaches here are very beautiful and pristine. The sheer beauty of these beaches are enough a reason to attract visitors. The allure of Margao is contained in its cultural heritage which is a smooth intermingle of Portuguese and Hindu cultures.</p>
+ 
+<p><b>Margao</b> is Goa 's second largest city and commercial metropolis of Salcete taluka and also is the headquarters of South Goa District. It still retains semblance of Goa's Portuguese colonial past. It is famous for its ancient cultural heritage and traditional customs of the people of Goa . Most of the rivers in Goa are used for waterways. Ferry boats were means of crossing the rivers in Goa . Rivers Mandovi and Zuari are being used for carrying ore to Mormugao harbour. Goa is also connected by waterway from Bombay .</p>
+ 
+<p>Surrounded by fertile farmland, the town of Margao was once a major religious centre, with dozens of wealthy temples and dharmshalas (dormitories). In fact the name Margao is thought to be the Portuguese corruption of the word Mathgram (from Math - a Hindu religious centre that used to exist there) </p>
+
+<p>Despite the long period of Portuguese colonization, the Hindu festivals have retained their unique Goan character and are celebrated with deep fervency. Ganesh Chaturthi is the <b>'numero uno' festival of South Goa</b> . It experiences the return of most Goans to their native place of birth or their ancestral houses to join the entire family. Thus they live the best of their time during this period.</p>
+
+<p>As a whole it can be said that the festivals and fairs in Goa is very colorful which is celebrated by all the citizens living there. </p>
+ 
+<p>The beaches in south Goa extend from Vasco da Gama and Bogmalo to Palolem Beach . The stretch includes <b>Bogmalo, Velsao, Majorda, Colva, Benaulim, Betul, Canaguinim, Agonda and Palolem</b>.</p>
+
+<p>Main tourist's attractions are Margao, Colva beach, Arvalem, Palolem beach and Arvalem caves</p>
+
+<p>Goa is a part of Konkan area. Goa has the types of lands namely hills, low and highland areas. Geographically Goa has three natural divisions namely the Low lands, the Plateaus and the Mountain region. </p>
+
+<h3>Places to see in South Goa</h3>
+<strong>Low Lands:</strong><p> Lowland area can be described as mainly coastal line. It is about 110 km long. Many beaches are along the coast in this area. Many rivers flow east to east in this area. </p>
+
+<strong>Plateau Lands:</strong><p> The plateau region is found between the mountain region in the east and the lowlands in the west. The height of Plateau land ranges from 30 metres to 100 metres. In this region mainly plenty of laterite stone is found. It is used for building the houses. </p>
+
+<strong>Mountain region:</strong>
+<p><b> Sahyadri Mountains</b> are placed to the east of South Goa . 
+This part is always covered with dense forest. In this area there are some of the mountains that are very steep. In the South Goa there are some peaks. Those can be named as Chandranath at Paroda, Dudhsagan in Sanguem taluka and Cormolghant in Canacona taluka.</p>
+ 
+<p><b>South Goa</b> is rich in natural resources like trees, iron and manganese ore. It is exported mainly to Japan , South Korea and some <b>European countries</b> as well</p>
+
+
+                        </div> <!-- end .entry-content -->
+				</div> <!-- end .entry -->			
+			<!-- You can start editing here. --></div> <!-- end #recent-posts -->
+            <uc1:right ID="right" runat="server"></uc1:right>	
+		 <!-- end sidebar -->		
+			</div> <!-- end #main-content -->
+		</div> <!-- end #main-content-wrap -->
+	</div>
+</asp:Content>

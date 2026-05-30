@@ -1,0 +1,1 @@
+<%@ Page Language="C#" CodeFile="Har_ki_pauri.aspx.cs" Inherits="Default" %>

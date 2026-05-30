@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Agra"
+		description="Taj Mahal"
+		image="Photos/agra-fort1.jpg"
+    thumbnail="Photos/agra-fort1.jpg" >
+
+    <slide
+        title="Agra"
+        description="Taj Mahal"
+        image="Photos/yamuna_river_agra_india-normal.jpg"
+        thumbnail="Photos/yamuna_river_agra_india-normal.jpg" />
+    <slide
+            title="Agra"
+            description="Taj Mahal"
+            image="Photos/Agra.jpg"
+            thumbnail="Photos/Agra.jpg" />
+    <slide
+        title="Agra"
+        description="Agra Fort"
+        image="Photos/agra_fort.jpg"
+        thumbnail="photos/agra_fort.jpg" />
+    <slide
+			title="Agra"
+			description="Taj Mahal"
+			image="Photos/agra006a.jpg"
+			thumbnail="Photos/agra006a.jpg" />
+    <slide
+			title="Agra"
+			description="Sikandra Fort"
+			image="Photos/agra2big.jpg"
+			thumbnail="Photos/agra2big.jpg" />
+    <slide
+			title="Agra"
+			description="Fatehpur Sikri"
+			image="Photos/imageshowimg1.jpg"
+			thumbnail="Photos/imageshowimg1.jpg" />
+    <slide
+       title="Agra"
+       description="Itmad-Ud-Daulah Tomb"
+       image="Photos/Itmad-ud-Daulah-Agra-Gohoto.jpg"
+       thumbnail="Photos/Itmad-ud-Daulah-Agra-Gohoto.jpg" />
+        
+  </album>
+  </data>
+

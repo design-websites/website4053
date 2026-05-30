@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Mizoram"
+		description="Magnificent collection of pictures of The Mizoram"
+		image="Photos/jatropha-mizoram.jpg">
+    <slide
+			title="Mizoram"
+			description="The magnificent Mizoram"
+			image="Photos/Mizoram-nature.jpg"
+			thumbnail="Photos/Mizoram-nature.jpg" />
+    <slide
+			title="Mizoram"
+			description="The magnificent Mizoram"
+			image="Photos/Mizoram-Waterfall.jpg"
+			thumbnail="Photos/Mizoram-Waterfall.jpg" />
+    <slide
+			title="Mizoram"
+			description="The magnificent Mizoram"
+			image="Photos/jatropha-mizoram.jpg"
+			thumbnail="Photos/jatropha-mizoram.jpg" />
+    <slide
+            title="Mizoram"
+            description="The beautiful Mizoram"
+            image="Photos/Mizo-The-Blue-Mountain-Gohoto.jpg"
+            thumbnail="Photos/Mizo-The-Blue-Mountain-Gohoto.jpg" />
+    <slide
+			title="Mizoram"
+			description="The beautiful Mizoram"
+			image="Photos/mizoram-cultural-dance.jpg"
+			thumbnail="Photos/mizoram-cultural-dance.jpg" />
+    <slide
+			title="Mizoram"
+			description="The Beauty of Mizoram"
+			image="Photos/mizoram-forest.jpg"
+			thumbnail="Photos/mizoram-forest.jpg" />
+    <slide
+			title="Mizoram"
+			description="The magnificent Mizoram"
+			image="Photos/Mizoram-forest1.jpg"
+			thumbnail="Photos/Mizoram-forest1.jpg" />
+    <slide
+			title="Mizoram"
+			description="The splendid Mizoram"
+			image="Photos/mizoram-nature-1.jpg"
+			thumbnail="Photos/mizoram-nature-1.jpg" />
+    
+    <slide
+            title="Mizoram"
+            description="The beautiful Mizoram"
+            image="Photos/Mizoram-Recidence.jpg"
+            thumbnail="Photos/Mizoram-Recidence.jpg" />
+    <slide
+			title="Mizoram"
+			description="The beautiful Mizoram"
+			image="Photos/wine-region-Mizoram.jpg"
+			thumbnail="Photos/wine-region-Mizoram.jpg" />
+    
+  </album> 
+</data>
+

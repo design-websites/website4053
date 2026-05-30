@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Pilgrimage"
+		description="Magnificent collection of pictures of The Pilgrimage"
+		image="Photos/fatima-group.jpg">
+    
+    <slide
+        title="Pilgrimage"
+        description="Pilgrimage"
+        image="Photos/fatima-group.jpg"
+        thumbnail="Photos/fatima-group.jpg" />
+    <slide
+            title="Pilgrimage"
+            description="Pilgrimage"
+            image="Photos/Haj-Pilgrimage.jpg"
+            thumbnail="Photos/Haj-Pilgrimage.jpg" />
+    <slide
+        title="Pilgrimage"
+        description="Pilgrimage"
+        image="Photos/Helier_pilgrimage_2005_Jersey.jpg"
+        thumbnail="Photos/Helier_pilgrimage_2005_Jersey.jpg" />
+    <slide
+			title="Pilgrimage"
+			description="Pilgrimage"
+			image="Photos/Hiroshige_Pilgrimage_to_the_Cave_Shrine_of_Benzaiten.jpg"
+			thumbnail="Photos/Hiroshige_Pilgrimage_to_the_Cave_Shrine_of_Benzaiten.jpg" />
+    <slide
+			title="Pilgrimage"
+			description="Pilgrimage"
+			image="Photos/pilgrimage-church-otuzco-500.jpg"
+			thumbnail="Photos/pilgrimage-church-otuzco-500.jpg" />
+    <slide
+			title="Pilgrimage"
+			description="Pilgrimage"
+			image="Photos/pilgrimage1.jpg"
+			thumbnail="Photos/pilgrimage1.jpg" />
+    <slide
+			title="Pilgrimage"
+			description="Pilgrimage"
+			image="Photos/Helier_pilgrimage_eucharist_2005_Jersey.jpg"
+			thumbnail="Photos/Helier_pilgrimage_eucharist_2005_Jersey.jpg" />
+    
+  </album>
+  </data>
+

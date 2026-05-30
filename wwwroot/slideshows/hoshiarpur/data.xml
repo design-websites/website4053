@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Hoshiarpur"
+		description="Magnificent collection of pictures of The Hoshiarpur"
+		image="Photos/govt_collegenew.jpg">
+    <slide
+        title="Hoshiarpur"
+        description="The beauty of Hoshiarpur"
+        image="Photos/hoshiarpur-1.jpg"
+        thumbnail="Photos/hoshiarpur-1.jpg" />
+    <slide
+			title="Hoshiarpur"
+			description="The beauty of Hoshiarpur"
+			image="Photos/lajwantihsr.PNG"
+			thumbnail="Photos/lajwantihsr.PNG" />
+    <slide
+			title="Hoshiarpur"
+			description="The beauty of Hoshiarpur"
+			image="Photos/manmohan2.jpg"
+			thumbnail="Photos/manmohan2.jpg" />
+    <slide
+			title="Hoshiarpur"
+			description="The beauty of Hoshiarpur"
+			image="Photos/out_night.PNG"
+			thumbnail="Photos/out_night.PNG" />
+    <slide
+        title="Hoshiarpur"
+        description="The magnificent Hoshiarpur"
+        image="Photos/govt_collegenew.jpg"
+        thumbnail="Photos/govt_collegenew.jpg" />
+    <slide
+            title="Hoshiarpur"
+            description="The beauty of Hoshiarpur"
+            image="Photos/hoshiarpur.jpg"
+            thumbnail="Photos/hoshiarpur.jpg" />
+  </album>
+
+</data>

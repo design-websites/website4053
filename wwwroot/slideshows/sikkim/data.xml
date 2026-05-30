@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data transition="CrossFadeTransition">
+  <album
+		title="Sikkim"
+		description="Magnificent collection of pictures of The Sikkim"
+		image="Photos/BiggestlakeofAsiaSikkim.jpg">
+    
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/BiggestlakeofAsiaSikkim.jpg"
+        thumbnail="Photos/BiggestlakeofAsiaSikkim.jpg" />
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/kanchanjanga-sikkim.jpg"
+        thumbnail="Photos/kanchanjanga-sikkim.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/m_1184086a.jpg"
+			thumbnail="Photos/m_1184086a.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/musician-sikkim.jpg"
+			thumbnail="Photos/musician-sikkim.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/ravangla_sikkim_monks.jpg"
+			thumbnail="Photos/ravangla_sikkim_monks.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/sikkim-0025.jpg"
+			thumbnail="Photos/sikkim-0025.jpg" />
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/Sikkim-rumtek.jpg"
+        thumbnail="Photos/Sikkim-rumtek.jpg" />
+    <slide
+            title="Sikkim"
+            description="Sikkim"
+            image="Photos/sikkim-tourism3.jpg"
+            thumbnail="Photos/sikkim-tourism3.jpg" />
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/Sikkim_Assembly_Gangtok.jpg"
+        thumbnail="Photos/Sikkim_Assembly_Gangtok.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/sikkim_himalayas.jpg"
+			thumbnail="Photos/sikkim_himalayas.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/sikkim1.jpg"
+			thumbnail="Photos/sikkim1.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/sikkim11.jpg"
+			thumbnail="Photos/sikkim11.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/sikkim1919.jpg"
+			thumbnail="Photos/sikkim1919.jpg" />
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/SikkimGreenlaketrek.jpg"
+        thumbnail="Photos/SikkimGreenlaketrek.jpg" />
+    <slide
+            title="Sikkim"
+            description="Sikkim"
+            image="Photos/SikkimyumthangV.jpg"
+            thumbnail="Photos/SikkimyumthangV.jpg" />
+    <slide
+        title="Sikkim"
+        description="Sikkim"
+        image="Photos/snow_capped_mountains_sikkim.jpg"
+        thumbnail="Photos/snow_capped_mountains_sikkim.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/trekking72.jpg"
+			thumbnail="Photos/trekking72.jpg" />
+    <slide
+			title="Sikkim"
+			description="Sikkim"
+			image="Photos/tsomgo_lake_sikkim.jpg"
+			thumbnail="Photos/tsomgo_lake_sikkim.jpg" />
+    
+  </album>
+  </data>
+
